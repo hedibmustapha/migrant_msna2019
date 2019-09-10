@@ -1,0 +1,6 @@
+"","issue","affected_files","affected_variables","severity","comment"
+"1","illegal question type","questions","audit","problematic","illegal type value: audit"
+"2","could not check samplingframe","samplingframe","","critical","samplingframe not a data.frame"
+"3","select_one or select_multiple values in data that are not listed in the questionnaire (data values split by on "" "" (spaces))","data/questionnaire","organisation_name","minor","value:  reach"
+"4","select_one or select_multiple values in data that are not listed in the questionnaire (data values split by on "" "" (spaces))","data/questionnaire","enumerator_id","minor","value:  reach_01"
+"5","select_one or select_multiple values in data that are not listed in the questionnaire (data values split by on "" "" (spaces))","data/questionnaire","preferred_source_info","minor","value:  friends_family_inside_bly"

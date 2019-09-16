@@ -1,0 +1,263 @@
+"","dependent.var","independent.var","dependent.var.value","independent.var.value","numbers","se","min","max","repeat.var","repeat.var.value"
+"dependent.var","1. Salaried work","na","NA","NA",850,25.5106728462327,800,900,NA,NA
+"dependent.var10","2. Casual or daily labour","na","NA","NA",450,25.5106728462327,400,500,NA,NA
+"dependent.var11","3. Income from own business or commerce","na","NA","NA",0,0,0,0,NA,NA
+"dependent.var12","4. Support from family and friends in Libya","na","NA","NA",0,0,0,0,NA,NA
+"dependent.var13","5. Support from family and friends in home country","na","NA","NA",0,0,0,0,NA,NA
+"dependent.var14","6. Support/remittances from family and friends in Europe","na","NA","NA",0,0,0,0,NA,NA
+"dependent.var15","7. Humanitarian assistance","na","NA","NA",0,0,0,0,NA,NA
+"dependent.var16","8. Zakat or charitable donations (not formal humanitarian assistance)","na","NA","NA",0,0,0,0,NA,NA
+"dependent.var17","9. Other (please specify)","na","NA","NA",0,0,0,0,NA,NA
+"dependent.var18","1. Food items","na","NA","NA",200,0,200,200,NA,NA
+"dependent.var19","2. Rent","na","NA","NA",100,5.10213456924654,80,100,NA,NA
+"dependent.var20","3. Shelter maintenance","na","NA","NA",0,0,0,0,NA,NA
+"dependent.var21","4. Water (from all sources combined)","na","NA","NA",10,0,10,10,NA,NA
+"dependent.var22","5. Non-food household items (hygiene items, blankets, lightbulbs, etc.)","na","NA","NA",16,1.27553364231164,15,20,NA,NA
+"dependent.var23","6. Utilities (electricity and gas connections)","na","NA","NA",0,0,0,0,NA,NA
+"dependent.var24","7. Fuel (for cooking, for vehicles, etc.)","na","NA","NA",10,1.27553364231164,5,10,NA,NA
+"dependent.var25","8. Health-related expenditures (healthcare, medicine, etc.)","na","NA","NA",0,0,0,0,NA,NA
+"dependent.var26","9. Education-related expenditures (school fees, supplies, uniforms, etc.)","na","NA","NA",0,0,0,0,NA,NA
+"dependent.var27","10. Transportation ","na","NA","NA",20,0.44908478944037,20,21.7603800266158,NA,NA
+"dependent.var28","11. Mobile phone credit","na","NA","NA",40,1.27553364231164,40,45,NA,NA
+"dependent.var29","12. Productive assets (items used to help generate income, such as sewing machines, tools, etc.)","na","NA","NA",0,0,0,0,NA,NA
+"dependent.var30","13. Debt repayment","na","NA","NA",0,0,0,0,NA,NA
+"dependent.var31","14. All other expenditures (specify)","na","NA","NA",0,0,0,0,NA,NA
+"dependent.var32","what is your total amount of debt (in LYD)?","na","NA","NA",175,36.8257288597775,105.645795460798,250,NA,NA
+"dependent.var33","1. Salaried work","mantika_label",NA,"Misrata",800,69.6441368702153,663.5,936.5,NA,NA
+"dependent.var1","1. Salaried work","mantika_label",NA,"Tripoli",600,76.5320185386981,450,750,NA,NA
+"dependent.var2","1. Salaried work","mantika_label",NA,"Benghazi",1250,38.266009269349,1175,1325,NA,NA
+"dependent.var3","1. Salaried work","mantika_label",NA,"Azzawya",1200,102.042691384931,1000,1400,NA,NA
+"dependent.var4","1. Salaried work","mantika_label",NA,"Aljufra",0,0,0,0,NA,NA
+"dependent.var5","1. Salaried work","mantika_label",NA,"Sebha",900,25.5106728462327,850,950,NA,NA
+"dependent.var6","1. Salaried work","mantika_label",NA,"Ejdabia",1100,25.5106728462327,1050,1150,NA,NA
+"dependent.var7","1. Salaried work","mantika_label",NA,"Alkufra",750,25.5106728462327,700,800,NA,NA
+"dependent.var8","1. Salaried work","mantika_label",NA,"Murzuq",450,25.5106728462327,400,500,NA,NA
+"dependent.var34","2. Casual or daily labour","mantika_label",NA,"Benghazi",700,51.0213456924654,600,800,NA,NA
+"dependent.var110","2. Casual or daily labour","mantika_label",NA,"Tripoli",300,61.2256148309585,180,420,NA,NA
+"dependent.var210","2. Casual or daily labour","mantika_label",NA,"Misrata",25,20.4085382769862,-15,65,NA,NA
+"dependent.var35","2. Casual or daily labour","mantika_label",NA,"Aljufra",350,89.2873549618145,175,525,NA,NA
+"dependent.var41","2. Casual or daily labour","mantika_label",NA,"Ejdabia",250,102.042691384931,50,450,NA,NA
+"dependent.var51","2. Casual or daily labour","mantika_label",NA,"Aljfara",0,0,0,0,NA,NA
+"dependent.var61","2. Casual or daily labour","mantika_label",NA,"Azzawya",900,76.5320185386981,750,1050,NA,NA
+"dependent.var71","2. Casual or daily labour","mantika_label",NA,"Sebha",850,63.7766821155817,725,975,NA,NA
+"dependent.var81","2. Casual or daily labour","mantika_label",NA,"Alkufra",0,0.255106728462327,-0.5,0.5,NA,NA
+"dependent.var9","2. Casual or daily labour","mantika_label",NA,"Murzuq",0,89.2873549618145,-175,175,NA,NA
+"dependent.var36","3. Income from own business or commerce","mantika_label",NA,"Benghazi",0,0,0,0,NA,NA
+"dependent.var111","3. Income from own business or commerce","mantika_label",NA,"Tripoli",0,0,0,0,NA,NA
+"dependent.var211","3. Income from own business or commerce","mantika_label",NA,"Misrata",0,0,0,0,NA,NA
+"dependent.var37","3. Income from own business or commerce","mantika_label",NA,"Aljufra",0,0,0,0,NA,NA
+"dependent.var42","3. Income from own business or commerce","mantika_label",NA,"Ejdabia",0,0,0,0,NA,NA
+"dependent.var52","3. Income from own business or commerce","mantika_label",NA,"Aljfara",0,0,0,0,NA,NA
+"dependent.var62","3. Income from own business or commerce","mantika_label",NA,"Azzawya",450,102.042691384931,250,650,NA,NA
+"dependent.var72","3. Income from own business or commerce","mantika_label",NA,"Sebha",0,0,0,0,NA,NA
+"dependent.var82","3. Income from own business or commerce","mantika_label",NA,"Alkufra",0,0,0,0,NA,NA
+"dependent.var91","3. Income from own business or commerce","mantika_label",NA,"Murzuq",0,0,0,0,NA,NA
+"dependent.var38","4. Support from family and friends in Libya","mantika_label",NA,"Benghazi",0,0,0,0,NA,NA
+"dependent.var112","4. Support from family and friends in Libya","mantika_label",NA,"Tripoli",0,0,0,0,NA,NA
+"dependent.var212","4. Support from family and friends in Libya","mantika_label",NA,"Misrata",0,0,0,0,NA,NA
+"dependent.var39","4. Support from family and friends in Libya","mantika_label",NA,"Aljufra",0,0,0,0,NA,NA
+"dependent.var43","4. Support from family and friends in Libya","mantika_label",NA,"Ejdabia",0,0,0,0,NA,NA
+"dependent.var53","4. Support from family and friends in Libya","mantika_label",NA,"Aljfara",0,0,0,0,NA,NA
+"dependent.var63","4. Support from family and friends in Libya","mantika_label",NA,"Azzawya",0,0,0,0,NA,NA
+"dependent.var73","4. Support from family and friends in Libya","mantika_label",NA,"Sebha",0,0,0,0,NA,NA
+"dependent.var83","4. Support from family and friends in Libya","mantika_label",NA,"Alkufra",0,0,0,0,NA,NA
+"dependent.var92","4. Support from family and friends in Libya","mantika_label",NA,"Murzuq",0,0,0,0,NA,NA
+"dependent.var40","5. Support from family and friends in home country","mantika_label",NA,"Benghazi",0,0,0,0,NA,NA
+"dependent.var113","5. Support from family and friends in home country","mantika_label",NA,"Tripoli",0,0,0,0,NA,NA
+"dependent.var213","5. Support from family and friends in home country","mantika_label",NA,"Misrata",0,0,0,0,NA,NA
+"dependent.var310","5. Support from family and friends in home country","mantika_label",NA,"Aljufra",0,0,0,0,NA,NA
+"dependent.var44","5. Support from family and friends in home country","mantika_label",NA,"Ejdabia",0,0,0,0,NA,NA
+"dependent.var54","5. Support from family and friends in home country","mantika_label",NA,"Aljfara",0,0,0,0,NA,NA
+"dependent.var64","5. Support from family and friends in home country","mantika_label",NA,"Azzawya",0,0,0,0,NA,NA
+"dependent.var74","5. Support from family and friends in home country","mantika_label",NA,"Sebha",0,0,0,0,NA,NA
+"dependent.var84","5. Support from family and friends in home country","mantika_label",NA,"Alkufra",0,0,0,0,NA,NA
+"dependent.var93","5. Support from family and friends in home country","mantika_label",NA,"Murzuq",0,0,0,0,NA,NA
+"dependent.var45","6. Support/remittances from family and friends in Europe","mantika_label",NA,"Benghazi",0,0,0,0,NA,NA
+"dependent.var114","6. Support/remittances from family and friends in Europe","mantika_label",NA,"Tripoli",0,0,0,0,NA,NA
+"dependent.var214","6. Support/remittances from family and friends in Europe","mantika_label",NA,"Misrata",0,0,0,0,NA,NA
+"dependent.var311","6. Support/remittances from family and friends in Europe","mantika_label",NA,"Aljufra",0,0,0,0,NA,NA
+"dependent.var46","6. Support/remittances from family and friends in Europe","mantika_label",NA,"Ejdabia",0,0,0,0,NA,NA
+"dependent.var55","6. Support/remittances from family and friends in Europe","mantika_label",NA,"Aljfara",0,0,0,0,NA,NA
+"dependent.var65","6. Support/remittances from family and friends in Europe","mantika_label",NA,"Azzawya",0,0,0,0,NA,NA
+"dependent.var75","6. Support/remittances from family and friends in Europe","mantika_label",NA,"Sebha",0,0,0,0,NA,NA
+"dependent.var85","6. Support/remittances from family and friends in Europe","mantika_label",NA,"Alkufra",0,0,0,0,NA,NA
+"dependent.var94","6. Support/remittances from family and friends in Europe","mantika_label",NA,"Murzuq",0,0,0,0,NA,NA
+"dependent.var47","7. Humanitarian assistance","mantika_label",NA,"Benghazi",0,0,0,0,NA,NA
+"dependent.var115","7. Humanitarian assistance","mantika_label",NA,"Tripoli",0,0,0,0,NA,NA
+"dependent.var215","7. Humanitarian assistance","mantika_label",NA,"Misrata",0,0,0,0,NA,NA
+"dependent.var312","7. Humanitarian assistance","mantika_label",NA,"Aljufra",0,0,0,0,NA,NA
+"dependent.var48","7. Humanitarian assistance","mantika_label",NA,"Ejdabia",0,0,0,0,NA,NA
+"dependent.var56","7. Humanitarian assistance","mantika_label",NA,"Aljfara",0,0,0,0,NA,NA
+"dependent.var66","7. Humanitarian assistance","mantika_label",NA,"Azzawya",0,0,0,0,NA,NA
+"dependent.var76","7. Humanitarian assistance","mantika_label",NA,"Sebha",0,0,0,0,NA,NA
+"dependent.var86","7. Humanitarian assistance","mantika_label",NA,"Alkufra",0,0,0,0,NA,NA
+"dependent.var95","7. Humanitarian assistance","mantika_label",NA,"Murzuq",0,0,0,0,NA,NA
+"dependent.var49","8. Zakat or charitable donations (not formal humanitarian assistance)","mantika_label",NA,"Benghazi",0,0,0,0,NA,NA
+"dependent.var116","8. Zakat or charitable donations (not formal humanitarian assistance)","mantika_label",NA,"Tripoli",0,0,0,0,NA,NA
+"dependent.var216","8. Zakat or charitable donations (not formal humanitarian assistance)","mantika_label",NA,"Misrata",0,0,0,0,NA,NA
+"dependent.var313","8. Zakat or charitable donations (not formal humanitarian assistance)","mantika_label",NA,"Aljufra",0,0,0,0,NA,NA
+"dependent.var410","8. Zakat or charitable donations (not formal humanitarian assistance)","mantika_label",NA,"Ejdabia",0,0,0,0,NA,NA
+"dependent.var57","8. Zakat or charitable donations (not formal humanitarian assistance)","mantika_label",NA,"Aljfara",0,0,0,0,NA,NA
+"dependent.var67","8. Zakat or charitable donations (not formal humanitarian assistance)","mantika_label",NA,"Azzawya",0,0,0,0,NA,NA
+"dependent.var77","8. Zakat or charitable donations (not formal humanitarian assistance)","mantika_label",NA,"Sebha",0,0,0,0,NA,NA
+"dependent.var87","8. Zakat or charitable donations (not formal humanitarian assistance)","mantika_label",NA,"Alkufra",0,0,0,0,NA,NA
+"dependent.var96","8. Zakat or charitable donations (not formal humanitarian assistance)","mantika_label",NA,"Murzuq",0,0,0,0,NA,NA
+"dependent.var50","9. Other (please specify)","mantika_label",NA,"Benghazi",0,0,0,0,NA,NA
+"dependent.var117","9. Other (please specify)","mantika_label",NA,"Tripoli",0,0,0,0,NA,NA
+"dependent.var217","9. Other (please specify)","mantika_label",NA,"Misrata",0,0,0,0,NA,NA
+"dependent.var314","9. Other (please specify)","mantika_label",NA,"Aljufra",0,0,0,0,NA,NA
+"dependent.var411","9. Other (please specify)","mantika_label",NA,"Ejdabia",0,0,0,0,NA,NA
+"dependent.var58","9. Other (please specify)","mantika_label",NA,"Aljfara",0,0,0,0,NA,NA
+"dependent.var68","9. Other (please specify)","mantika_label",NA,"Azzawya",0,0,0,0,NA,NA
+"dependent.var78","9. Other (please specify)","mantika_label",NA,"Sebha",0,0,0,0,NA,NA
+"dependent.var88","9. Other (please specify)","mantika_label",NA,"Alkufra",0,0,0,0,NA,NA
+"dependent.var97","9. Other (please specify)","mantika_label",NA,"Murzuq",0,0,0,0,NA,NA
+"dependent.var59","1. Food items","mantika_label",NA,"Benghazi",500,25.5106728462327,450,550,NA,NA
+"dependent.var118","1. Food items","mantika_label",NA,"Tripoli",150,25.5106728462327,100,200,NA,NA
+"dependent.var218","1. Food items","mantika_label",NA,"Misrata",200,10.2042691384931,180,220,NA,NA
+"dependent.var315","1. Food items","mantika_label",NA,"Aljufra",120,10.2042691384931,100,140,NA,NA
+"dependent.var412","1. Food items","mantika_label",NA,"Ejdabia",120,7.65320185386981,105,135,NA,NA
+"dependent.var510","1. Food items","mantika_label",NA,"Aljfara",0,51.0213456924654,-100,100,NA,NA
+"dependent.var69","1. Food items","mantika_label",NA,"Azzawya",400,25.5106728462327,350,450,NA,NA
+"dependent.var79","1. Food items","mantika_label",NA,"Sebha",150,5.10213456924654,140,160,NA,NA
+"dependent.var89","1. Food items","mantika_label",NA,"Alkufra",150,5.10213456924654,140,160,NA,NA
+"dependent.var98","1. Food items","mantika_label",NA,"Murzuq",300,12.7553364231164,275,325,NA,NA
+"dependent.var60","2. Rent","mantika_label",NA,"Benghazi",200,33.1638747001025,135,265,NA,NA
+"dependent.var119","2. Rent","mantika_label",NA,"Tripoli",300,25.5106728462327,250,350,NA,NA
+"dependent.var219","2. Rent","mantika_label",NA,"Misrata",250,38.266009269349,175,325,NA,NA
+"dependent.var316","2. Rent","mantika_label",NA,"Aljufra",50,1.27553364231164,47.5,52.5,NA,NA
+"dependent.var413","2. Rent","mantika_label",NA,"Ejdabia",50,12.7553364231164,25,75,NA,NA
+"dependent.var511","2. Rent","mantika_label",NA,"Sebha",60,2.55106728462327,55,65,NA,NA
+"dependent.var610","2. Rent","mantika_label",NA,"Azzawya",350,12.7553364231164,325,375,NA,NA
+"dependent.var710","2. Rent","mantika_label",NA,"Alkufra",60,6.37766821155818,47.5,72.5,NA,NA
+"dependent.var810","2. Rent","mantika_label",NA,"Murzuq",100,6.37766821155818,87.5,112.5,NA,NA
+"dependent.var99","2. Rent","mantika_label",NA,"Aljfara",350,0,350,350,NA,NA
+"dependent.var70","3. Shelter maintenance","mantika_label",NA,"Benghazi",0,0,0,0,NA,NA
+"dependent.var120","3. Shelter maintenance","mantika_label",NA,"Tripoli",0,0,0,0,NA,NA
+"dependent.var220","3. Shelter maintenance","mantika_label",NA,"Misrata",0,0,0,0,NA,NA
+"dependent.var317","3. Shelter maintenance","mantika_label",NA,"Aljufra",0,0,0,0,NA,NA
+"dependent.var414","3. Shelter maintenance","mantika_label",NA,"Ejdabia",0,0,0,0,NA,NA
+"dependent.var512","3. Shelter maintenance","mantika_label",NA,"Aljfara",0,0,0,0,NA,NA
+"dependent.var611","3. Shelter maintenance","mantika_label",NA,"Azzawya",0,0,0,0,NA,NA
+"dependent.var711","3. Shelter maintenance","mantika_label",NA,"Sebha",0,0,0,0,NA,NA
+"dependent.var811","3. Shelter maintenance","mantika_label",NA,"Alkufra",0,0,0,0,NA,NA
+"dependent.var910","3. Shelter maintenance","mantika_label",NA,"Murzuq",0,0,0,0,NA,NA
+"dependent.var80","4. Water (from all sources combined)","mantika_label",NA,"Benghazi",0,0,0,0,NA,NA
+"dependent.var121","4. Water (from all sources combined)","mantika_label",NA,"Tripoli",0,2.55106728462327,-5,5,NA,NA
+"dependent.var221","4. Water (from all sources combined)","mantika_label",NA,"Misrata",20,0,20,20,NA,NA
+"dependent.var318","4. Water (from all sources combined)","mantika_label",NA,"Aljufra",15,0,15,15,NA,NA
+"dependent.var415","4. Water (from all sources combined)","mantika_label",NA,"Ejdabia",10,1.27553364231164,7.5,12.5,NA,NA
+"dependent.var513","4. Water (from all sources combined)","mantika_label",NA,"Aljfara",0,0,0,0,NA,NA
+"dependent.var612","4. Water (from all sources combined)","mantika_label",NA,"Azzawya",30,2.55106728462327,25,35,NA,NA
+"dependent.var712","4. Water (from all sources combined)","mantika_label",NA,"Sebha",0,0,0,0,NA,NA
+"dependent.var812","4. Water (from all sources combined)","mantika_label",NA,"Alkufra",0,0,0,0,NA,NA
+"dependent.var911","4. Water (from all sources combined)","mantika_label",NA,"Murzuq",30,0,30,30,NA,NA
+"dependent.var90","5. Non-food household items (hygiene items, blankets, lightbulbs, etc.)","mantika_label",NA,"Benghazi",30,2.55106728462327,25,35,NA,NA
+"dependent.var122","5. Non-food household items (hygiene items, blankets, lightbulbs, etc.)","mantika_label",NA,"Tripoli",0,0,0,0,NA,NA
+"dependent.var222","5. Non-food household items (hygiene items, blankets, lightbulbs, etc.)","mantika_label",NA,"Misrata",0,2.55106728462327,-5,5,NA,NA
+"dependent.var319","5. Non-food household items (hygiene items, blankets, lightbulbs, etc.)","mantika_label",NA,"Aljufra",15,1.27553364231164,12.5,17.5,NA,NA
+"dependent.var416","5. Non-food household items (hygiene items, blankets, lightbulbs, etc.)","mantika_label",NA,"Ejdabia",20,1.27553364231164,17.5,22.5,NA,NA
+"dependent.var514","5. Non-food household items (hygiene items, blankets, lightbulbs, etc.)","mantika_label",NA,"Aljfara",0,0,0,0,NA,NA
+"dependent.var613","5. Non-food household items (hygiene items, blankets, lightbulbs, etc.)","mantika_label",NA,"Azzawya",30,5.10213456924654,20,40,NA,NA
+"dependent.var713","5. Non-food household items (hygiene items, blankets, lightbulbs, etc.)","mantika_label",NA,"Sebha",25,2.55106728462327,20,30,NA,NA
+"dependent.var813","5. Non-food household items (hygiene items, blankets, lightbulbs, etc.)","mantika_label",NA,"Alkufra",0,0,0,0,NA,NA
+"dependent.var912","5. Non-food household items (hygiene items, blankets, lightbulbs, etc.)","mantika_label",NA,"Murzuq",30,2.55106728462327,25,35,NA,NA
+"dependent.var100","6. Utilities (electricity and gas connections)","mantika_label",NA,"Benghazi",0,0,0,0,NA,NA
+"dependent.var123","6. Utilities (electricity and gas connections)","mantika_label",NA,"Tripoli",0,0,0,0,NA,NA
+"dependent.var223","6. Utilities (electricity and gas connections)","mantika_label",NA,"Misrata",0,0,0,0,NA,NA
+"dependent.var320","6. Utilities (electricity and gas connections)","mantika_label",NA,"Aljufra",0,0,0,0,NA,NA
+"dependent.var417","6. Utilities (electricity and gas connections)","mantika_label",NA,"Ejdabia",0,0,0,0,NA,NA
+"dependent.var515","6. Utilities (electricity and gas connections)","mantika_label",NA,"Aljfara",0,0,0,0,NA,NA
+"dependent.var614","6. Utilities (electricity and gas connections)","mantika_label",NA,"Azzawya",10,1.27553364231164,7.5,12.5,NA,NA
+"dependent.var714","6. Utilities (electricity and gas connections)","mantika_label",NA,"Sebha",0,0,0,0,NA,NA
+"dependent.var814","6. Utilities (electricity and gas connections)","mantika_label",NA,"Alkufra",0,0,0,0,NA,NA
+"dependent.var913","6. Utilities (electricity and gas connections)","mantika_label",NA,"Murzuq",0,0,0,0,NA,NA
+"dependent.var101","7. Fuel (for cooking, for vehicles, etc.)","mantika_label",NA,"Benghazi",10,2.04085382769862,6,14,NA,NA
+"dependent.var124","7. Fuel (for cooking, for vehicles, etc.)","mantika_label",NA,"Tripoli",0,0.765320185386981,-1.5,1.5,NA,NA
+"dependent.var224","7. Fuel (for cooking, for vehicles, etc.)","mantika_label",NA,"Misrata",0,0.765320185386981,-1.5,1.5,NA,NA
+"dependent.var321","7. Fuel (for cooking, for vehicles, etc.)","mantika_label",NA,"Aljufra",10,0,10,10,NA,NA
+"dependent.var418","7. Fuel (for cooking, for vehicles, etc.)","mantika_label",NA,"Ejdabia",5,0,5,5,NA,NA
+"dependent.var516","7. Fuel (for cooking, for vehicles, etc.)","mantika_label",NA,"Aljfara",0,0,0,0,NA,NA
+"dependent.var615","7. Fuel (for cooking, for vehicles, etc.)","mantika_label",NA,"Azzawya",15,2.55106728462327,10,20,NA,NA
+"dependent.var715","7. Fuel (for cooking, for vehicles, etc.)","mantika_label",NA,"Sebha",20,1.27553364231164,17.5,22.5,NA,NA
+"dependent.var815","7. Fuel (for cooking, for vehicles, etc.)","mantika_label",NA,"Alkufra",0,1.27553364231164,-2.5,2.5,NA,NA
+"dependent.var914","7. Fuel (for cooking, for vehicles, etc.)","mantika_label",NA,"Murzuq",0,0,0,0,NA,NA
+"dependent.var102","8. Health-related expenditures (healthcare, medicine, etc.)","mantika_label",NA,"Benghazi",20,7.65320185386981,5,35,NA,NA
+"dependent.var125","8. Health-related expenditures (healthcare, medicine, etc.)","mantika_label",NA,"Tripoli",0,0,0,0,NA,NA
+"dependent.var225","8. Health-related expenditures (healthcare, medicine, etc.)","mantika_label",NA,"Misrata",5,8.92873549618145,-12.5,22.5,NA,NA
+"dependent.var322","8. Health-related expenditures (healthcare, medicine, etc.)","mantika_label",NA,"Aljufra",0,0,0,0,NA,NA
+"dependent.var419","8. Health-related expenditures (healthcare, medicine, etc.)","mantika_label",NA,"Ejdabia",0,0,0,0,NA,NA
+"dependent.var517","8. Health-related expenditures (healthcare, medicine, etc.)","mantika_label",NA,"Aljfara",0,0,0,0,NA,NA
+"dependent.var616","8. Health-related expenditures (healthcare, medicine, etc.)","mantika_label",NA,"Azzawya",90,5.10213456924654,80,100,NA,NA
+"dependent.var716","8. Health-related expenditures (healthcare, medicine, etc.)","mantika_label",NA,"Sebha",0,0,0,0,NA,NA
+"dependent.var816","8. Health-related expenditures (healthcare, medicine, etc.)","mantika_label",NA,"Alkufra",0,0,0,0,NA,NA
+"dependent.var915","8. Health-related expenditures (healthcare, medicine, etc.)","mantika_label",NA,"Murzuq",0,0,0,0,NA,NA
+"dependent.var103","9. Education-related expenditures (school fees, supplies, uniforms, etc.)","mantika_label",NA,"Tripoli",0,0,0,0,NA,NA
+"dependent.var126","9. Education-related expenditures (school fees, supplies, uniforms, etc.)","mantika_label",NA,"Misrata",0,0,0,0,NA,NA
+"dependent.var226","9. Education-related expenditures (school fees, supplies, uniforms, etc.)","mantika_label",NA,"Aljufra",0,0,0,0,NA,NA
+"dependent.var323","9. Education-related expenditures (school fees, supplies, uniforms, etc.)","mantika_label",NA,"Aljfara",0,0,0,0,NA,NA
+"dependent.var420","9. Education-related expenditures (school fees, supplies, uniforms, etc.)","mantika_label",NA,"Azzawya",120,25.5106728462327,70,170,NA,NA
+"dependent.var518","9. Education-related expenditures (school fees, supplies, uniforms, etc.)","mantika_label",NA,"Benghazi",0,25.5106728462327,-50,50,NA,NA
+"dependent.var617","9. Education-related expenditures (school fees, supplies, uniforms, etc.)","mantika_label",NA,"Sebha",0,0,0,0,NA,NA
+"dependent.var717","9. Education-related expenditures (school fees, supplies, uniforms, etc.)","mantika_label",NA,"Murzuq",0,0,0,0,NA,NA
+"dependent.var817","9. Education-related expenditures (school fees, supplies, uniforms, etc.)","mantika_label",NA,"Alkufra",0,0,0,0,NA,NA
+"dependent.var916","9. Education-related expenditures (school fees, supplies, uniforms, etc.)","mantika_label",NA,"Ejdabia",0,0,0,0,NA,NA
+"dependent.var104","10. Transportation ","mantika_label",NA,"Benghazi",60,10.2042691384931,40,80,NA,NA
+"dependent.var127","10. Transportation ","mantika_label",NA,"Tripoli",25,2.55106728462327,20,30,NA,NA
+"dependent.var227","10. Transportation ","mantika_label",NA,"Misrata",30,6.37766821155818,17.5,42.5,NA,NA
+"dependent.var324","10. Transportation ","mantika_label",NA,"Aljufra",0,0,0,0,NA,NA
+"dependent.var421","10. Transportation ","mantika_label",NA,"Ejdabia",30,1.27553364231164,27.5,32.5,NA,NA
+"dependent.var519","10. Transportation ","mantika_label",NA,"Aljfara",0,0,0,0,NA,NA
+"dependent.var618","10. Transportation ","mantika_label",NA,"Azzawya",60,2.55106728462327,55,65,NA,NA
+"dependent.var718","10. Transportation ","mantika_label",NA,"Sebha",0,0,0,0,NA,NA
+"dependent.var818","10. Transportation ","mantika_label",NA,"Alkufra",30,1.27553364231164,27.5,32.5,NA,NA
+"dependent.var917","10. Transportation ","mantika_label",NA,"Murzuq",40,5.10213456924654,30,50,NA,NA
+"dependent.var105","11. Mobile phone credit","mantika_label",NA,"Benghazi",60,2.55106728462327,55,65,NA,NA
+"dependent.var128","11. Mobile phone credit","mantika_label",NA,"Tripoli",20,1.27553364231164,17.5,22.5,NA,NA
+"dependent.var228","11. Mobile phone credit","mantika_label",NA,"Misrata",50,2.55106728462327,45,55,NA,NA
+"dependent.var325","11. Mobile phone credit","mantika_label",NA,"Aljufra",50,1.27553364231164,47.5,52.5,NA,NA
+"dependent.var422","11. Mobile phone credit","mantika_label",NA,"Ejdabia",30,0,30,30,NA,NA
+"dependent.var520","11. Mobile phone credit","mantika_label",NA,"Aljfara",0,0,0,0,NA,NA
+"dependent.var619","11. Mobile phone credit","mantika_label",NA,"Azzawya",55,2.55106728462327,50,60,NA,NA
+"dependent.var719","11. Mobile phone credit","mantika_label",NA,"Sebha",50,2.55106728462327,45,55,NA,NA
+"dependent.var819","11. Mobile phone credit","mantika_label",NA,"Alkufra",30,0,30,30,NA,NA
+"dependent.var918","11. Mobile phone credit","mantika_label",NA,"Murzuq",50,0,50,50,NA,NA
+"dependent.var106","12. Productive assets (items used to help generate income, such as sewing machines, tools, etc.)","mantika_label",NA,"Benghazi",0,0,0,0,NA,NA
+"dependent.var129","12. Productive assets (items used to help generate income, such as sewing machines, tools, etc.)","mantika_label",NA,"Tripoli",0,0,0,0,NA,NA
+"dependent.var229","12. Productive assets (items used to help generate income, such as sewing machines, tools, etc.)","mantika_label",NA,"Misrata",0,0,0,0,NA,NA
+"dependent.var326","12. Productive assets (items used to help generate income, such as sewing machines, tools, etc.)","mantika_label",NA,"Aljufra",0,0,0,0,NA,NA
+"dependent.var423","12. Productive assets (items used to help generate income, such as sewing machines, tools, etc.)","mantika_label",NA,"Ejdabia",0,0,0,0,NA,NA
+"dependent.var521","12. Productive assets (items used to help generate income, such as sewing machines, tools, etc.)","mantika_label",NA,"Aljfara",0,0,0,0,NA,NA
+"dependent.var620","12. Productive assets (items used to help generate income, such as sewing machines, tools, etc.)","mantika_label",NA,"Azzawya",0,0,0,0,NA,NA
+"dependent.var720","12. Productive assets (items used to help generate income, such as sewing machines, tools, etc.)","mantika_label",NA,"Sebha",0,0,0,0,NA,NA
+"dependent.var820","12. Productive assets (items used to help generate income, such as sewing machines, tools, etc.)","mantika_label",NA,"Alkufra",0,0,0,0,NA,NA
+"dependent.var919","12. Productive assets (items used to help generate income, such as sewing machines, tools, etc.)","mantika_label",NA,"Murzuq",0,0,0,0,NA,NA
+"dependent.var107","13. Debt repayment","mantika_label",NA,"Benghazi",0,0,0,0,NA,NA
+"dependent.var130","13. Debt repayment","mantika_label",NA,"Tripoli",0,0,0,0,NA,NA
+"dependent.var230","13. Debt repayment","mantika_label",NA,"Misrata",0,0,0,0,NA,NA
+"dependent.var327","13. Debt repayment","mantika_label",NA,"Aljufra",0,0,0,0,NA,NA
+"dependent.var424","13. Debt repayment","mantika_label",NA,"Ejdabia",0,0,0,0,NA,NA
+"dependent.var522","13. Debt repayment","mantika_label",NA,"Aljfara",0,0,0,0,NA,NA
+"dependent.var621","13. Debt repayment","mantika_label",NA,"Azzawya",0,0,0,0,NA,NA
+"dependent.var721","13. Debt repayment","mantika_label",NA,"Sebha",0,0,0,0,NA,NA
+"dependent.var821","13. Debt repayment","mantika_label",NA,"Alkufra",0,0,0,0,NA,NA
+"dependent.var920","13. Debt repayment","mantika_label",NA,"Murzuq",0,0,0,0,NA,NA
+"dependent.var108","14. All other expenditures (specify)","mantika_label",NA,"Benghazi",0,0,0,0,NA,NA
+"dependent.var131","14. All other expenditures (specify)","mantika_label",NA,"Tripoli",0,0,0,0,NA,NA
+"dependent.var231","14. All other expenditures (specify)","mantika_label",NA,"Misrata",0,0,0,0,NA,NA
+"dependent.var328","14. All other expenditures (specify)","mantika_label",NA,"Aljufra",0,0,0,0,NA,NA
+"dependent.var425","14. All other expenditures (specify)","mantika_label",NA,"Ejdabia",0,0,0,0,NA,NA
+"dependent.var523","14. All other expenditures (specify)","mantika_label",NA,"Aljfara",0,0,0,0,NA,NA
+"dependent.var622","14. All other expenditures (specify)","mantika_label",NA,"Azzawya",0,0,0,0,NA,NA
+"dependent.var722","14. All other expenditures (specify)","mantika_label",NA,"Sebha",0,0,0,0,NA,NA
+"dependent.var822","14. All other expenditures (specify)","mantika_label",NA,"Alkufra",0,0,0,0,NA,NA
+"dependent.var921","14. All other expenditures (specify)","mantika_label",NA,"Murzuq",0,0,0,0,NA,NA
+"dependent.var109","what is your total amount of debt (in LYD)?","mantika_label",NA,"Misrata",1350,625.011484732701,125,2575,NA,NA
+"dependent.var132","what is your total amount of debt (in LYD)?","mantika_label",NA,"Tripoli",500,344.394083424141,-175,1175,NA,NA
+"dependent.var232","what is your total amount of debt (in LYD)?","mantika_label",NA,"Ejdabia",400,102.042691384931,200,600,NA,NA
+"dependent.var329","what is your total amount of debt (in LYD)?","mantika_label",NA,"Azzawya",1700,382.660092693491,950,2450,NA,NA
+"dependent.var426","what is your total amount of debt (in LYD)?","mantika_label",NA,"Aljufra",50,0,50,50,NA,NA
+"dependent.var524","what is your total amount of debt (in LYD)?","mantika_label",NA,"Alkufra",40,17.8574709923629,5,75,NA,NA
+"dependent.var623","what is your total amount of debt (in LYD)?","mantika_label",NA,"Sebha",100,35.7149419847258,30,170,NA,NA
+"dependent.var723","what is your total amount of debt (in LYD)?","mantika_label",NA,"Benghazi",1000,696.441368702153,-365,2365,NA,NA
+"dependent.var823","what is your total amount of debt (in LYD)?","mantika_label",NA,"Murzuq",12000,31874.055080997,-50472,74472,NA,NA

@@ -43,7 +43,7 @@ analyzer <- function(x, in_questionnaire, data, weighting_function = NULL, main_
       table <- table[-nrow(table),]
       table <- table[order(as.numeric(table[,ncol(table)]),
                            decreasing = T), c(1, ncol(table))] %>%
-        mutate(Total = round(Total, 0))
+        mutate(Total = round(Total, 1))
       table <- rbind(c(x, main_col_name), table)
       table <- as.data.frame(table)
       names(table) <- c("data", main_col_name)

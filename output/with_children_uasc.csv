@@ -1,0 +1,2249 @@
+data,Libya,yes,no
+mantika_label,"","",""
+Aljufra,14.6,6.8,17.3
+Alkufra,12.7,3.6,15.9
+Benghazi,11.5,4.1,14.1
+Ejdabia,10.9,3.6,13.5
+Tripoli,10.8,21.6,7.1
+Misrata,10,20.7,6.3
+Sebha,9.8,4.3,11.8
+Murzuq,9.8,9.2,10
+Azzawya,9.7,25.7,4.2
+Aljfara,0.1,0.5,0
+In which country were you born?,"","",""
+Niger,13.1,13.7,12.9
+Sudan,12.7,14.2,12.2
+Egypt,12.3,7.7,13.9
+Tchad,9.3,7.9,9.7
+Ghana,9,9.2,8.9
+Nigeria,8.8,10.4,8.3
+Mali,4.6,6.3,4
+Syria,4.3,7.9,3.1
+Senegal,2.9,1.4,3.5
+Morocco,2.4,3.4,2.1
+Somalia,2.4,1.6,2.7
+Eritrea,2.4,1.6,2.7
+Other (please specify),2.4,3.2,2.1
+Bangladesh,1.9,1.8,1.9
+Ethiopia,1.8,2,1.7
+Tunisia,1.8,0.5,2.3
+Mauritania,1.4,0.5,1.7
+Cameroon,1.3,0.7,1.5
+Burkina Faso,1.1,1.4,1
+Algeria,0.9,1.1,0.9
+CôtedIvoire,0.8,0.7,0.8
+Guinea,0.8,0.7,0.8
+Palestine,0.6,0.9,0.5
+Pakistan,0.5,0.7,0.4
+Kenya,0.2,0,0.3
+Libya,0.2,0.9,0
+In which country was your father born?,"","",""
+Palestine,50,50,
+Libya,25,25,
+Other (please specify),25,25,
+In which country was your mother born?,"","",""
+Palestine,50,50,
+Nigeria,25,25,
+Syria,25,25,
+region_of_origin,"","",""
+w_c_africa,53.8,53.8,53.8
+mena,36.4,37.8,35.9
+e_africa,7.3,5.4,7.9
+Other (please specify),2.4,2.9,2.3
+What nationality do you possess?,"","",""
+Niger,13.2,14.2,12.9
+Sudan,12.7,13.7,12.3
+Egypt,12.3,6.8,14.2
+Tchad,9.3,8.1,9.7
+Ghana,9.1,9.2,9
+Nigeria,8.8,10.4,8.2
+Mali,4.6,6.3,4
+Syria,4.5,8.3,3.1
+Senegal,2.9,1.4,3.5
+Morocco,2.4,3.4,2.1
+Other (please specify),2.4,3.4,2.1
+Somalia,2.3,1.4,2.7
+Eritrea,2.3,1.1,2.7
+Bangladesh,1.9,1.8,1.9
+Ethiopia,1.7,2,1.6
+Tunisia,1.7,0.5,2.1
+Mauritania,1.4,0.5,1.7
+Cameroon,1.2,0.5,1.5
+Burkina Faso,1.2,1.6,1
+Algeria,1,1.1,0.9
+CôtedIvoire,0.9,1.1,0.8
+Palestine,0.9,1.8,0.5
+Guinea,0.6,0.7,0.6
+Pakistan,0.4,0.5,0.4
+Kenya,0.2,0,0.2
+Don't know,0.1,0.2,0
+Prefer not to answer,0.1,0.2,0
+Togo,0.1,0,0.1
+What are your primary What are your primary languages??,"","",""
+Arabic,63,57,65
+English,24,30,21
+French,29,35,26
+Hausa,15,22,12
+Songhai/Zarma/Djerma,4,9,2
+Sara/Bongo/Bagirmi,1,3,0
+Bedawi/Beja,1,2,0
+Nubian,2,3,1
+Fur,0,0,0
+Zaghawa,1,1,1
+Dinka ,1,2,0
+Fula/Fulani/Fulfulde,1,1,1
+Tamasheq,0,0,0
+Kanuri,0,1,0
+Igbo/Ibo,1,4,0
+Yoruba,1,3,0
+Akan/Asante/Fante,1,3,1
+Bambara,1,3,1
+Bengali,2,2,2
+Tigrinya,2,1,3
+Somali,2,2,3
+Other (please specify),4,5,3
+When did you arrive in Libya?,"","",""
+01/01/2019,2.8,0.5,3.6
+01/03/2018,2.5,0.7,3.1
+01/02/2019,2.4,0.9,3
+01/06/2017,2.4,2.5,2.4
+01/03/2019,2.3,1.1,2.7
+01/04/2017,2.3,1.8,2.4
+01/07/2017,2.3,2.3,2.3
+01/05/2017,2.2,1.8,2.4
+01/05/2018,2.1,0.9,2.5
+01/01/2013,2,2,2
+01/02/2018,1.9,1.8,2
+01/05/2016,1.9,2.7,1.6
+01/08/2018,1.9,1.4,2
+01/10/2018,1.9,0.9,2.2
+01/08/2017,1.8,2.3,1.6
+01/06/2018,1.7,1.4,1.9
+01/01/2018,1.7,0.2,2.2
+01/03/2017,1.7,0.9,2
+01/04/2016,1.7,1.8,1.6
+01/10/2017,1.7,0.5,2.1
+01/04/2018,1.6,0.5,2
+01/10/2016,1.6,1.1,1.7
+01/01/2015,1.5,0.7,1.7
+01/09/2017,1.5,0.5,1.8
+01/06/2016,1.4,1.4,1.4
+01/07/2018,1.4,1.1,1.5
+01/01/2014,1.3,0.5,1.6
+01/02/2017,1.3,1.1,1.4
+01/04/2019,1.3,0,1.8
+01/08/2016,1.3,2.3,0.9
+01/11/2018,1.3,0.5,1.6
+01/05/2015,1.2,2,0.9
+01/05/2019,1.2,0.5,1.5
+01/07/2015,1.2,2.3,0.9
+01/12/2018,1.2,0.5,1.5
+01/03/2016,1.2,1.8,0.9
+01/07/2016,1.2,1.6,1
+01/01/2016,1.1,0.5,1.3
+01/09/2018,1.1,0.9,1.2
+01/09/2016,1,0.7,1.2
+01/12/2017,1,0.2,1.3
+01/12/2016,0.9,0.7,0.9
+01/02/2015,0.8,1.4,0.6
+01/02/2016,0.8,1.4,0.5
+01/04/2015,0.8,1.4,0.5
+01/11/2017,0.8,0.2,0.9
+01/04/2014,0.7,0.9,0.6
+01/07/2014,0.7,1.8,0.3
+01/01/2017,0.6,0.7,0.6
+01/03/2015,0.6,1.1,0.5
+01/08/2015,0.6,0.5,0.7
+01/11/2016,0.6,0.5,0.7
+01/02/2014,0.6,0.2,0.7
+01/05/2014,0.6,0.9,0.5
+01/06/2013,0.6,0.5,0.6
+01/06/2019,0.6,0,0.8
+01/01/2005,0.5,0.9,0.4
+01/08/2013,0.5,1.1,0.3
+01/08/2014,0.5,0.9,0.4
+01/09/2015,0.5,0.2,0.6
+01/01/2008,0.5,0.7,0.4
+01/04/2012,0.5,0.9,0.3
+01/05/2012,0.5,0.7,0.4
+01/10/2015,0.5,0.7,0.4
+01/07/2012,0.4,0.9,0.2
+01/08/2012,0.4,0.7,0.3
+01/10/2014,0.4,0.5,0.4
+01/12/2014,0.4,1.6,0
+01/01/2009,0.3,0,0.5
+01/02/2009,0.3,0.2,0.4
+01/05/2013,0.3,0.7,0.2
+01/09/2012,0.3,0.9,0.2
+01/12/2013,0.3,0.2,0.4
+01/02/2013,0.3,0.5,0.2
+01/03/2012,0.3,0.2,0.3
+01/03/2013,0.3,0.5,0.2
+01/06/2012,0.3,0.2,0.3
+01/06/2014,0.3,0.9,0.1
+01/06/2015,0.3,0.9,0.1
+01/07/2013,0.3,0.5,0.2
+01/08/2007,0.3,0.2,0.3
+01/10/2012,0.3,0.7,0.2
+01/11/2013,0.3,0.5,0.2
+01/11/2015,0.3,0.7,0.2
+01/01/2001,0.2,0.2,0.2
+01/01/2006,0.2,0.5,0.2
+01/01/2007,0.2,0.2,0.2
+01/03/2014,0.2,0.2,0.2
+01/04/2013,0.2,0.5,0.2
+01/07/2019,0.2,0.2,0.2
+01/08/2000,0.2,0.7,0.1
+01/08/2006,0.2,0.7,0.1
+01/01/1999,0.2,0.5,0.1
+01/01/2010,0.2,0.2,0.2
+01/02/2007,0.2,0.2,0.2
+01/06/2009,0.2,0.2,0.2
+01/08/2008,0.2,0.5,0.1
+01/08/2009,0.2,0.7,0
+01/09/1991,0.2,0.2,0.2
+01/09/2013,0.2,0.2,0.2
+01/10/2013,0.2,0.2,0.2
+01/11/2012,0.2,0,0.2
+01/12/2011,0.2,0.7,0
+01/12/2015,0.2,0.2,0.2
+01/01/1989,0.1,0.2,0.1
+01/01/1998,0.1,0.2,0.1
+01/01/2012,0.1,0.5,0
+01/02/1992,0.1,0.2,0.1
+01/02/2012,0.1,0.5,0
+01/03/1988,0.1,0.5,0
+01/03/2005,0.1,0.2,0.1
+01/05/2001,0.1,0.5,0
+01/05/2010,0.1,0.2,0.1
+01/06/1997,0.1,0.2,0.1
+01/06/2011,0.1,0,0.2
+01/07/2008,0.1,0,0.2
+01/09/2009,0.1,0.2,0.1
+01/12/2012,0.1,0.2,0.1
+01/01/1955,0.1,0.2,0
+01/01/1970,0.1,0.2,0
+01/01/1981,0.1,0.2,0
+01/01/1985,0.1,0,0.1
+01/01/1988,0.1,0,0.1
+01/01/1992,0.1,0.2,0
+01/01/2000,0.1,0,0.1
+01/01/2003,0.1,0.2,0
+01/01/2004,0.1,0.2,0
+01/01/2011,0.1,0,0.1
+01/02/1989,0.1,0.2,0
+01/02/1993,0.1,0.2,0
+01/02/2002,0.1,0.2,0
+01/02/2008,0.1,0,0.1
+01/02/2010,0.1,0,0.1
+01/03/1989,0.1,0.2,0
+01/03/2003,0.1,0.2,0
+01/03/2009,0.1,0,0.1
+01/03/2010,0.1,0.2,0
+01/04/1969,0.1,0,0.1
+01/04/1981,0.1,0,0.1
+01/04/1991,0.1,0.2,0
+01/04/1994,0.1,0.2,0
+01/04/1995,0.1,0,0.1
+01/04/2005,0.1,0,0.1
+01/04/2006,0.1,0,0.1
+01/04/2008,0.1,0.2,0
+01/04/2010,0.1,0.2,0
+01/04/2011,0.1,0.2,0
+01/05/1982,0.1,0,0.1
+01/05/1988,0.1,0.2,0
+01/05/1994,0.1,0,0.1
+01/05/1998,0.1,0.2,0
+01/05/2003,0.1,0,0.1
+01/05/2005,0.1,0.2,0
+01/05/2006,0.1,0,0.1
+01/05/2009,0.1,0,0.1
+01/06/1972,0.1,0,0.1
+01/06/1989,0.1,0.2,0
+01/06/1998,0.1,0.2,0
+01/06/1999,0.1,0,0.1
+01/06/2004,0.1,0.2,0
+01/06/2005,0.1,0.2,0
+01/06/2008,0.1,0,0.1
+01/06/2010,0.1,0.2,0
+01/07/1987,0.1,0.2,0
+01/07/1989,0.1,0,0.1
+01/07/1991,0.1,0,0.1
+01/07/1993,0.1,0,0.1
+01/07/1995,0.1,0,0.1
+01/07/1998,0.1,0,0.1
+01/07/2002,0.1,0.2,0
+01/07/2003,0.1,0,0.1
+01/07/2005,0.1,0,0.1
+01/07/2006,0.1,0,0.1
+01/07/2007,0.1,0,0.1
+01/07/2010,0.1,0,0.1
+01/07/2011,0.1,0.2,0
+01/08/1982,0.1,0.2,0
+01/08/1990,0.1,0.2,0
+01/08/1997,0.1,0,0.1
+01/08/1999,0.1,0.2,0
+01/08/2002,0.1,0,0.1
+01/08/2004,0.1,0.2,0
+01/08/2005,0.1,0.2,0
+01/08/2010,0.1,0.2,0
+01/08/2011,0.1,0.2,0
+01/09/1971,0.1,0,0.1
+01/09/1975,0.1,0.2,0
+01/09/1979,0.1,0,0.1
+01/09/1980,0.1,0,0.1
+01/09/1981,0.1,0.2,0
+01/09/1985,0.1,0.2,0
+01/09/1996,0.1,0.2,0
+01/09/2002,0.1,0,0.1
+01/09/2003,0.1,0.2,0
+01/09/2006,0.1,0.2,0
+01/09/2008,0.1,0.2,0
+01/09/2010,0.1,0,0.1
+01/10/1988,0.1,0.2,0
+01/10/2000,0.1,0.2,0
+01/10/2002,0.1,0.2,0
+01/10/2007,0.1,0.2,0
+01/10/2009,0.1,0.2,0
+01/10/2010,0.1,0,0.1
+01/10/2011,0.1,0.2,0
+01/11/1990,0.1,0.2,0
+01/11/2002,0.1,0.2,0
+01/11/2003,0.1,0,0.1
+01/11/2010,0.1,0.2,0
+01/11/2011,0.1,0,0.1
+01/11/2014,0.1,0,0.1
+01/12/1985,0.1,0,0.1
+01/12/2003,0.1,0,0.1
+01/12/2005,0.1,0.2,0
+01/12/2007,0.1,0,0.1
+time_of_arrival,"","",""
+over_a_year,81.8,92.8,77.9
+within_a_year,18.2,7.2,22.1
+When did you arrive in the current baladiya?,"","",""
+01/02/2019,3.6,1.1,4.4
+01/01/2019,3.4,1.4,4.2
+01/03/2019,3.2,1.6,3.8
+01/01/2018,3,1.1,3.7
+01/04/2018,2.4,0.9,2.9
+01/05/2017,2.4,1.8,2.6
+01/07/2017,2.4,3.4,2
+01/08/2017,2.4,1.8,2.6
+01/04/2019,2.3,1.4,2.6
+01/08/2018,2.3,1.4,2.6
+01/06/2018,2.2,2,2.3
+01/03/2018,2.2,0.9,2.6
+01/12/2018,2.2,1.6,2.4
+01/01/2017,2.1,0.5,2.7
+01/05/2018,2.1,1.4,2.4
+01/10/2017,2,0.9,2.4
+01/09/2017,1.9,2.3,1.8
+01/06/2017,1.9,1.8,1.9
+01/11/2018,1.8,0.9,2.1
+01/03/2017,1.7,0.5,2.2
+01/04/2017,1.7,1.6,1.8
+01/07/2018,1.7,1.6,1.7
+01/09/2018,1.7,2,1.6
+01/11/2017,1.6,0.9,1.9
+01/04/2016,1.6,1.8,1.5
+01/07/2016,1.5,1.6,1.4
+01/05/2019,1.4,0.2,1.8
+01/10/2018,1.4,1.1,1.5
+01/02/2018,1.3,1.4,1.3
+01/08/2016,1.3,2.3,1
+01/11/2016,1.3,2,1.1
+01/12/2017,1.3,1.8,1.2
+01/06/2019,1.3,0.9,1.4
+01/01/2016,1.2,0.7,1.4
+01/02/2017,1.2,0.9,1.3
+01/05/2016,1.2,0.9,1.3
+01/08/2015,1.1,1.8,0.9
+01/10/2016,1,0.7,1.2
+01/12/2016,1,0.7,1.1
+01/07/2015,0.9,1.8,0.5
+01/09/2016,0.9,1.1,0.8
+01/01/2015,0.8,0.7,0.9
+01/04/2015,0.8,1.4,0.6
+01/07/2019,0.8,0.5,0.9
+01/03/2016,0.7,1.4,0.5
+01/06/2016,0.7,0.9,0.6
+01/10/2015,0.7,0.7,0.7
+01/12/2015,0.6,1.1,0.5
+01/05/2015,0.6,0.9,0.5
+01/09/2015,0.6,0.9,0.5
+01/03/2015,0.5,0.9,0.4
+01/04/2014,0.5,1.1,0.3
+01/11/2015,0.5,1.1,0.3
+01/02/2016,0.5,0.5,0.5
+01/01/2013,0.4,0.7,0.3
+01/01/2014,0.4,0.5,0.4
+01/05/2014,0.4,0.7,0.3
+01/06/2013,0.4,0.7,0.3
+01/05/2013,0.3,0.9,0.2
+01/06/2014,0.3,0.9,0.2
+01/08/2013,0.3,0.5,0.3
+01/12/2014,0.3,1.1,0.1
+01/02/2015,0.3,0.5,0.2
+01/04/2012,0.3,0.2,0.3
+01/05/2012,0.3,0.5,0.2
+01/06/2015,0.3,0.5,0.2
+01/07/2012,0.3,0.9,0.1
+01/09/2014,0.3,0.2,0.3
+01/10/2012,0.3,0.7,0.2
+01/12/2013,0.3,0.5,0.2
+01/01/2008,0.2,0.5,0.2
+01/02/2013,0.2,0.7,0.1
+01/02/2014,0.2,0.5,0.2
+01/04/2013,0.2,0.5,0.2
+01/07/2014,0.2,0.5,0.2
+01/08/2009,0.2,0.7,0.1
+01/08/2014,0.2,0.7,0.1
+01/09/2013,0.2,0.7,0.1
+01/10/2013,0.2,0,0.3
+01/10/2014,0.2,0.2,0.2
+01/12/2012,0.2,0.5,0.2
+01/01/2001,0.2,0.2,0.2
+01/02/2007,0.2,0.2,0.2
+01/03/2012,0.2,0.2,0.2
+01/03/2013,0.2,0.2,0.2
+01/03/2014,0.2,0.2,0.2
+01/08/2010,0.2,0.2,0.2
+01/08/2019,0.2,0.5,0.1
+01/01/2005,0.1,0.2,0.1
+01/03/1988,0.1,0.5,0
+01/03/2010,0.1,0.2,0.1
+01/04/2010,0.1,0.2,0.1
+01/05/2005,0.1,0.2,0.1
+01/05/2007,0.1,0.5,0
+01/06/2009,0.1,0.2,0.1
+01/07/2013,0.1,0.2,0.1
+01/08/2006,0.1,0.5,0
+01/08/2008,0.1,0.2,0.1
+01/08/2012,0.1,0,0.2
+01/09/2008,0.1,0.5,0
+01/09/2009,0.1,0.5,0
+01/09/2012,0.1,0.2,0.1
+01/10/2007,0.1,0.2,0.1
+01/10/2009,0.1,0.2,0.1
+01/11/2013,0.1,0,0.2
+01/11/2014,0.1,0.5,0
+01/01/1970,0.1,0.2,0
+01/01/1988,0.1,0,0.1
+01/01/1989,0.1,0.2,0
+01/01/1990,0.1,0,0.1
+01/01/1992,0.1,0.2,0
+01/01/1998,0.1,0,0.1
+01/01/1999,0.1,0.2,0
+01/01/2003,0.1,0.2,0
+01/01/2007,0.1,0.2,0
+01/01/2009,0.1,0,0.1
+01/01/2011,0.1,0,0.1
+01/01/2012,0.1,0.2,0
+01/02/1989,0.1,0.2,0
+01/02/1992,0.1,0,0.1
+01/02/1993,0.1,0.2,0
+01/02/2005,0.1,0.2,0
+01/02/2008,0.1,0,0.1
+01/02/2009,0.1,0,0.1
+01/02/2010,0.1,0,0.1
+01/03/1989,0.1,0.2,0
+01/03/2009,0.1,0,0.1
+01/04/1969,0.1,0,0.1
+01/04/1995,0.1,0,0.1
+01/04/2002,0.1,0.2,0
+01/04/2004,0.1,0.2,0
+01/04/2005,0.1,0,0.1
+01/04/2009,0.1,0,0.1
+01/05/1982,0.1,0,0.1
+01/05/1988,0.1,0.2,0
+01/05/1993,0.1,0.2,0
+01/05/1994,0.1,0,0.1
+01/05/1998,0.1,0.2,0
+01/05/2001,0.1,0.2,0
+01/05/2009,0.1,0.2,0
+01/06/1972,0.1,0,0.1
+01/06/1989,0.1,0.2,0
+01/06/1998,0.1,0.2,0
+01/06/2003,0.1,0.2,0
+01/06/2005,0.1,0.2,0
+01/06/2008,0.1,0,0.1
+01/06/2011,0.1,0,0.1
+01/06/2012,0.1,0,0.1
+01/07/1987,0.1,0.2,0
+01/07/1989,0.1,0,0.1
+01/07/1993,0.1,0,0.1
+01/07/1997,0.1,0,0.1
+01/07/1998,0.1,0.2,0
+01/07/1999,0.1,0,0.1
+01/07/2000,0.1,0.2,0
+01/07/2001,0.1,0.2,0
+01/07/2003,0.1,0,0.1
+01/07/2005,0.1,0,0.1
+01/07/2006,0.1,0,0.1
+01/07/2008,0.1,0.2,0
+01/07/2009,0.1,0,0.1
+01/07/2011,0.1,0,0.1
+01/08/1982,0.1,0.2,0
+01/08/1997,0.1,0,0.1
+01/08/2000,0.1,0.2,0
+01/08/2001,0.1,0.2,0
+01/08/2007,0.1,0,0.1
+01/08/2011,0.1,0.2,0
+01/09/1971,0.1,0,0.1
+01/09/1975,0.1,0.2,0
+01/09/1979,0.1,0,0.1
+01/09/1980,0.1,0,0.1
+01/09/1985,0.1,0.2,0
+01/09/1991,0.1,0,0.1
+01/09/1992,0.1,0.2,0
+01/09/1993,0.1,0.2,0
+01/09/1994,0.1,0,0.1
+01/09/1996,0.1,0.2,0
+01/09/2002,0.1,0,0.1
+01/09/2006,0.1,0,0.1
+01/09/2007,0.1,0,0.1
+01/09/2010,0.1,0,0.1
+01/10/1988,0.1,0.2,0
+01/10/1989,0.1,0,0.1
+01/10/2000,0.1,0.2,0
+01/10/2006,0.1,0.2,0
+01/10/2019,0.1,0,0.1
+01/11/2001,0.1,0.2,0
+01/11/2002,0.1,0.2,0
+01/11/2008,0.1,0,0.1
+01/11/2010,0.1,0.2,0
+01/11/2011,0.1,0,0.1
+01/11/2012,0.1,0.2,0
+01/12/1985,0.1,0,0.1
+01/12/2003,0.1,0,0.1
+01/12/2007,0.1,0.2,0
+01/12/2008,0.1,0,0.1
+01/12/2009,0.1,0.2,0
+01/12/2011,0.1,0.2,0
+How many people live in your household (including the interviewee) in Libya?,"","",""
+Average,2.81781140861467,4.84234234234234,2.11224489795918
+How old are you?,"","",""
+Average,33.1554132712456,38.3558558558559,31.3430141287284
+"For enumerator:
+What is the sex of the respondent?","","",""
+Male,92.2,79.7,96.5
+Female,7.8,20.3,3.5
+Infants 0-5years: (male),"","",""
+Average,0.0983701979045402,0.380630630630631,0
+Children 6-14 years: (male),"","",""
+Average,0.136204889406286,0.527027027027027,0
+Youth 15-17 years: (male),"","",""
+Average,0.0983701979045402,0.380630630630631,0
+Adults 18-64: (male),"","",""
+Average,1.82596041909197,1.41891891891892,1.96781789638932
+Elderly 65+ years: (male),"","",""
+Average,0.0157159487776484,0.0427927927927928,0.00627943485086342
+nb_male,"","",""
+Average,2.17403958090803,2.75,1.97331240188383
+under18_male,"","",""
+Average,0.332945285215367,1.28828828828829,0
+over18_male,"","",""
+Average,1.84109429569267,1.46171171171171,1.97331240188383
+school_aged_boys,"","",""
+Average,0.234575087310827,0.907657657657658,0
+Infants 0-5years: (female),"","",""
+Average,0.0849825378346915,0.328828828828829,0
+Children 6-14 years: (female),"","",""
+Average,0.10128055878929,0.391891891891892,0
+Youth 15-17 years: (female),"","",""
+Average,0.0535506402793946,0.207207207207207,0
+Adults 18-64: (female),"","",""
+Average,0.387660069848661,1.13513513513514,0.127158555729984
+Elderly 65+ years: (female),"","",""
+Average,0.0122235157159488,0.0292792792792793,0.00627943485086342
+nb_female,"","",""
+Average,0.639697322467986,2.09234234234234,0.133437990580848
+under18_female,"","",""
+Average,0.239813736903376,0.927927927927928,0
+over18_female,"","",""
+Average,0.39988358556461,1.16441441441441,0.133437990580848
+school_aged_girls,"","",""
+Average,0.154831199068685,0.599099099099099,0
+nb_ind_hh,"","",""
+Average,2.81373690337602,4.84234234234234,2.10675039246468
+nb_under18,"","",""
+Average,0.572759022118743,2.21621621621622,0
+nb_over18,"","",""
+Average,2.24097788125728,2.62612612612613,2.10675039246468
+Are you currently pregnant?,"","",""
+No,89.6,88.9,90.9
+Yes,9,10,6.8
+Don't know,1.5,1.1,2.3
+male,"","",""
+Average,0.174621653084983,0.675675675675676,0
+female,"","",""
+Average,0.0983701979045402,0.380630630630631,0
+"1. Cereals, grains, and tubers (including wheat bread, pasta, rice, couscous, potatoes, etc.)","","",""
+Average,5.76775320139697,5.57432432432432,5.83516483516483
+"2. Legumes and nuts (including beans, chickpeas, peas, nuts, etc.)","","",""
+Average,3.44179278230501,3.45495495495495,3.43720565149137
+"3. Milk and dairy products (including milk, cheese, sour cream, yoghurt, etc.)","","",""
+Average,4.09487776484284,4.83783783783784,3.83594976452119
+"4. Eggs, meat, fish (including beef, chicken, lamb, canned fish, fresh fish, etc.)","","",""
+Average,3.37543655413271,3.84459459459459,3.21193092621664
+"5. Vegetables and leaves (including onions, lettuce, tomatoes, cucumbers, red peppers, spinach, etc.)","","",""
+Average,5.41909196740396,5.75,5.30376766091052
+"6. Fruits (including bananas, apples, cherries, dates, lemons, apricots, pears, etc.)","","",""
+Average,2.04132712456345,2.11486486486486,2.01569858712716
+"7. Oil and fat (including vegetable oil, butter, margarine, lard, etc.)","","",""
+Average,5.16181606519208,5.62837837837838,4.99921507064364
+"8. Sugar and sweets (including sugar, honey, jam, cakes, cookies, sweets, sugary drinks, etc.)","","",""
+Average,4.63504074505239,5.04054054054054,4.49372056514914
+"9. Condiments and spices (including garlic, tomato paste, and small quantities of items from other food groups)","","",""
+Average,5.07043073341094,5.22972972972973,5.0149136577708
+What are the top three sources from which you typically acquire food?,"","",""
+Own production,4,9,2
+"Received as food aid through government, UN, NGOs, civil society, etc.",2,6,1
+Received as gift from friends or relatives,13,16,12
+Market (purchased with cash) ,96,95,96
+Market (purchased on credit),14,25,9
+Market (purchased with cheque),1,1,1
+Work or barter for food,6,8,5
+"Gathering, hunting, or fishing",1,2,1
+"Borrowing food from relatives, hosts, or external parties",4,10,2
+Zakat,3,4,3
+Other (please specify),1,1,1
+Don't know,0,0,0
+Prefer not to answer,0,0,0
+"1. Rely on less preferred, less expensive food?","","",""
+Average,2.48428405122235,2.67792792792793,2.41679748822606
+2. Borrow food or rely on help from friends or relatives?,"","",""
+Average,0.546565774155995,0.880630630630631,0.430141287284144
+3. Reduce the number of meals eaten per day?,"","",""
+Average,1.4743888242142,1.98198198198198,1.29748822605965
+4. Reduce the size of portions or meals?,"","",""
+Average,1.5337601862631,2.01801801801802,1.36499215070644
+5. Reduce the quantity consumed by adults so children could eat?,"","",""
+Average,0.40454016298021,1.40540540540541,0.0557299843014129
+"Have you engaged in agricultural production (crop farming, gardening, livestock production, raising animals, fishing, etc.) for income generation or food consumption during the past year?","","",""
+No,87,79,90
+"Yes, crop production",8,14,6
+"Yes, livestock production",7,10,5
+"Yes, fishing/fisheries",0,1,0
+Other (please specify),1,2,1
+Don't know,0,0,0
+Prefer not to answer,0,0,0
+What type of shelter do you live in?,"","",""
+House,40.9,48.6,38.2
+Apartment (including one-room apartments),23.2,27.7,21.6
+Unfinished room(s),22.1,15.3,24.4
+"Private building not usually used for shelter (basement, garage, store, warehouse, work site, etc.)",7.9,3.2,9.6
+Connection house,2.8,2.5,2.9
+"Public building not usually used for shelter (school, mosque, etc.)",1.2,1.6,1.1
+Camp or informal settlement for displaced persons,1.2,0.5,1.4
+Prefer not to answer,0.2,0,0.2
+Temporary shelter provided by INGO or local NGO,0.2,0.2,0.2
+Other (please specify),0.1,0.2,0.1
+Outdoors (no shelter at all),0.1,0,0.2
+Tent or caravan,0.1,0.2,0.1
+Hotel,0.1,0,0.1
+How many rooms are in your shelter?,"","",""
+Average,2.15540540540541,2.49131513647643,2.0297121634169
+How would you describe your occupancy status?,"","",""
+Rental (with verbal agreement),63.2,65.3,62.4
+Housing provided by employer,22.4,11.3,26.3
+Rental (with written contract),5.2,11.9,2.8
+Being hosted for free (not including by employer),4.3,4.1,4.4
+Housing provided by public authority,2.3,2.3,2.3
+Ownership ,1.2,2.7,0.7
+Housing provided by smuggler,1,1.8,0.7
+Squatting (without consent of owner),0.2,0.2,0.2
+Living in the streets or public space,0.1,0.2,0.1
+Don't know,0.1,0.2,0
+Prefer not to answer,0.1,0,0.1
+Other (please specify),0.1,0,0.1
+How much does your rental property cost per month (in LYD)?,"","",""
+Average,349.286995515695,417.275449101796,320.211267605634
+Has the rent increased or decreased since the beginning of 2019?,"","",""
+No change,74.4,60.1,80.3
+Increased,20.9,34.1,15.4
+Decreased,2.6,4.1,1.9
+Don't know,2.1,1.5,2.4
+Prefer not to answer,0.1,0.3,0
+Who is hosting you for free?,"","",""
+Libyan friend,50,66.7,44.6
+Migrant friend,37.8,11.1,46.4
+Family member,8.1,11.1,7.1
+Other (please specify),4.1,11.1,1.8
+What are your main shelter-related concerns?,"","",""
+no shelter related concerns,51,41,55
+There is no shelter,4,5,4
+Shelters are overcrowded,17,11,19
+Homes are so damaged that they are uninhabitable,5,10,4
+Unexploded remnants of war and landmines,0,0,0
+Building materials to repair shelters are unavailable,2,4,2
+Building services/skills are unavailable,2,1,2
+Lack of access to basic utilities,6,6,5
+Partial access to basic utilities,8,13,6
+Lack of basic household items,12,19,10
+Lack of privacy,12,12,11
+"Lack of gender-sensitive WASH facilities (bathing, washing, toilet, etc)",4,8,2
+Insecurity or conflict,8,14,6
+Other (please specify),0,1,0
+Don't know,0,0,0
+Prefer not to answer,0,1,0
+How would you describe the overall condition of your shelter? Please refer to the reference pictures below.,"","",""
+No damage / negligible damage,51.2,51.7,51
+"Light damage (repairs needed, but shelter is livable)",37.5,38.1,37.2
+Medium damage,10.3,9,10.7
+Heavy damage (shelter is not livable without repairs),0.9,1.1,0.9
+Destroyed (shelter needs to be reconstructed),0.2,0,0.2
+Who do you live with?,"","",""
+I live alone,10,3,12
+I live with family,25,78,7
+I live with Libyan friends,1,0,1
+I live with migrant friends,47,14,58
+I live with colleagues,14,2,18
+I live with my employer,2,0,2
+I live with my landlord,0,1,0
+I live with other refugees/migrants that I did not previously know,9,3,12
+I live with Libyans that I did not previously know,0,0,0
+Other (please specify),0,0,0
+Don't know,0,0,0
+Prefer not to answer,0,0,0
+How many people do you share your accommodation with?,"","",""
+Average,5.04826254826255,5.45433789954338,4.88888888888889
+Is your cooking space separated from the rest of your living space?,"","",""
+Yes,56.8,71.8,51.5
+No,42.8,27.7,48
+Don't know,0.2,0.2,0.2
+Prefer not to answer,0.2,0.2,0.2
+What is the total area (m²) of your accommodation (excluding the cooking space and bathing/toilet facilities if they are separate)?,"","",""
+Average,54.1928904428904,97.8873873873874,38.9410377358491
+What are the biggest challenges you face in accessing shelter?,"","",""
+Do not face any challenges ,43,29,48
+Do not have the appropriate documents ,16,20,15
+Do not have enough money ,24,36,20
+Discrimatory treatment/Landlords do not trust me ,6,10,4
+Do not have the right contacts to find a place ,4,5,4
+Fear of being overcharged ,26,32,24
+Lack of information about finding shelter,8,7,8
+Lack of freedom of movement,8,9,7
+Tensions with host community,8,9,7
+"Safety and security concerns (threat, danger, etc)",8,14,5
+Other (please specify),0,0,1
+Don't know,0,0,0
+Prefer not to answer,0,0,0
+Have you experienced eviction or the threat of eviction within the past 6 months?,"","",""
+No,89.6,80.9,92.7
+"Yes, have been threatened with eviction",6.6,12.4,4.6
+"Yes, have been recently evicted",2.5,5.2,1.6
+Don't know,0.7,0.7,0.7
+Prefer not to answer,0.5,0.9,0.4
+Why do you think you were evicted / threatened with eviction?,"","",""
+"Forced eviction, i.e. from armed group pressure or land-grabbing",14,18,10
+Land acquisitions,2,1,3
+Clearance of camp/public space by authorities,8,6,9
+Discrimination based on ethnicity/tribe,10,13,6
+Cannot afford rent,37,45,29
+No documentation to prove legal ownership,18,13,23
+Punitive or retaliatory actions,0,0,0
+Authorities requested that you leave ,2,4,0
+Host family no longer able to host our family,4,8,1
+Request to vacate from owner of buidling/land,25,23,28
+Lack of rental contract ,2,1,3
+Lack of required documents,6,8,5
+Other (please specify),2,0,4
+Don't know,1,3,0
+Prefer not to answer,0,0,0
+1. Mattresses,"","",""
+I own this but need another / more,51.3,51.6,51.3
+I own enough of this and do not need more,41.7,38.7,42.8
+I do not own this object,6.8,9,6
+Don't know,0.1,0.5,0
+Prefer not to answer,0.1,0.2,0
+2. Blankets,"","",""
+I own this but need another / more,44,45.9,43.3
+I own enough of this and do not need more,42.3,42.1,42.3
+I do not own this object,13.6,11.5,14.4
+Don't know,0.1,0.2,0
+Prefer not to answer,0.1,0.2,0
+"3. Bedding items (sheets, pillows)","","",""
+I own enough of this and do not need more,42.3,40.8,42.9
+I own this but need another / more,38.9,39.6,38.6
+I do not own this object,18.6,18.9,18.4
+Prefer not to answer,0.1,0.2,0.1
+Don't know,0.1,0.2,0
+Other (please specify),0.1,0.2,0
+4. Clothing for cold weather,"","",""
+I own this but need another / more,43.2,41.4,43.9
+I own enough of this and do not need more,32.9,35.1,32.2
+I do not own this object,23.7,23,23.9
+Don't know,0.1,0.2,0
+Prefer not to answer,0.1,0.2,0
+5. Heating systems,"","",""
+I do not own this object,62.9,52,66.7
+I own this but need another / more,20,27.5,17.3
+I own enough of this and do not need more,17,20.3,15.9
+Don't know,0.1,0.2,0
+Other (please specify),0.1,0,0.1
+6. Gas/electric stove ,"","",""
+I own this but need another / more,44.7,40.8,46.1
+I own enough of this and do not need more,38.5,40.3,37.8
+I do not own this object,16.5,18.2,15.9
+Prefer not to answer,0.2,0.2,0.2
+Don't know,0.1,0.2,0
+Other (please specify),0.1,0.2,0
+7. Cooking set/items                                   ,"","",""
+I own this but need another / more,52.3,50.5,53
+I own enough of this and do not need more,38.2,38.1,38.3
+I do not own this object,9.3,11,8.6
+Don't know,0.1,0.5,0
+Prefer not to answer,0.1,0,0.1
+8. Mosquito nets                                                     ,"","",""
+I do not own this object,80,76.4,81.3
+I own this but need another / more,10.1,11,9.7
+I own enough of this and do not need more,9.8,12.4,8.9
+Don't know,0.1,0.2,0
+Other (please specify),0.1,0,0.1
+"9. Water storage containers (water tank, jerry cans, etc.)","","",""
+I own enough of this and do not need more,35.2,34.7,35.3
+I own this but need another / more,33.5,36.9,32.3
+I do not own this object,31.3,28.2,32.4
+Don't know,0.1,0.2,0
+10. Solar lamp,"","",""
+I do not own this object,76.7,83.1,74.4
+I own this but need another / more,13.9,7.9,15.9
+I own enough of this and do not need more,9.4,8.6,9.7
+Don't know,0.1,0.2,0
+Other (please specify),0.1,0.2,0
+11. Mobile phone (smart phone),"","",""
+I own enough of this and do not need more,41.3,41.9,41.1
+I do not own this object,31.5,31.5,31.5
+I own this but need another / more,27.2,26.6,27.5
+12. Mobile phone (non-smart phone),"","",""
+I do not own this object,56.5,55,57
+I own enough of this and do not need more,23.4,21.6,24
+I own this but need another / more,20,23.2,18.9
+Don't know,0.1,0,0.1
+Prefer not to answer,0.1,0.2,0
+Radio,"","",""
+I do not own this object,69.2,64.6,70.7
+I own enough of this and do not need more,19.8,25.5,17.8
+I own this but need another / more,11.1,9.9,11.5
+TV,"","",""
+I do not own this object,42.8,30.4,47.1
+I own enough of this and do not need more,34.2,50,28.6
+I own this but need another / more,23,19.4,24.3
+Other (please specify),0.1,0.2,0
+15. Desktop or laptop computer,"","",""
+I do not own this object,88.1,88.3,88
+I own enough of this and do not need more,7.2,8.3,6.8
+I own this but need another / more,4.5,3.2,5
+Prefer not to answer,0.1,0.2,0.1
+Don't know,0.1,0,0.1
+16. Generator,"","",""
+I do not own this object,93.1,93.9,92.8
+I own enough of this and do not need more,3.7,3.6,3.8
+I own this but need another / more,3,2,3.3
+Other (please specify),0.1,0.2,0.1
+Don't know,0.1,0.2,0
+Prefer not to answer,0.1,0,0.1
+17. Construction materials and equipment,"","",""
+I do not own this object,74.2,80.6,72
+I own enough of this and do not need more,13.6,6.3,16.2
+I own this but need another / more,12,13.1,11.7
+Don't know,0.1,0,0.1
+Prefer not to answer,0.1,0,0.1
+18. Carpets,"","",""
+I do not own this object,39.4,25.2,44.3
+I own this but need another / more,34.4,45.9,30.4
+I own enough of this and do not need more,26.1,28.8,25.2
+Prefer not to answer,0.1,0,0.1
+Have you worked in any of the following types of jobs in the past 30 days?,"","",""
+Did not work outside the home in the past 30 days,6,13,3
+Permanent job with annual/monthly/weekly wage,0.314901047729919,30,0.320251177394035
+Temporary job with weekly/daily/monthly wage,25,27,25
+Daily labour,42,45,41
+Other (please specify),2,3,2
+Don't know,0,0,0
+Prefer not to answer,1,2,0
+Have you worked for the following types of institutions in the past 30 days?,"","",""
+Libyan-owned business (private sector),25,39,20
+Foreign-owned business (private sector),2,2,1
+"Libyan non-profit sector (Libyan NGO, civil society organization, etc.)",0,0,0
+"International non-profit sector (international NGO, UN agency, etc.)",1,2,0
+Own business or family business,24,27,23
+Informal or irregular labour,55,51,56
+Other (please specify),2,4,2
+Don't know,3,6,2
+Prefer not to answer,1,1,1
+1. Permanent full time  with annual/monthly/weekly wage,"","",""
+Average,0.0465686274509804,0.0465686274509804,
+2. Temporary job with weekly/daily/monthly wage,"","",""
+Average,0.0612745098039216,0.0612745098039216,
+3. Daily labour,"","",""
+Average,0.105392156862745,0.105392156862745,
+type_jobs_minors_calc,"","",""
+Average,0.213235294117647,0.213235294117647,
+1. Farming/ agriculture work,"","",""
+Average,0.196969696969697,0.196969696969697,
+2. Factory work/manufacturing of products,"","",""
+Average,0.0757575757575758,0.0757575757575758,
+3. Construction,"","",""
+Average,0.318181818181818,0.318181818181818,
+4. Transporting goods or people,"","",""
+Average,0.181818181818182,0.181818181818182,
+5. Oil production,"","",""
+Average,0.0454545454545455,0.0454545454545455,
+6. Mechanical work (repairing vehicles etc.),"","",""
+Average,0.227272727272727,0.227272727272727,
+"7, Domestic work/cleaning","","",""
+Average,0.212121212121212,0.212121212121212,
+8. Other harsh or dangerous labour,"","",""
+Average,0,0,
+9. other Non harsh or dangerous labour,"","",""
+Average,0.0606060606060606,0.0606060606060606,
+type_sectors_minors_calc,"","",""
+Average,1.26086956521739,1.26086956521739,
+1. Permanent full time  with annual/monthly/weekly wage,"","",""
+Average,0.466049382716049,0.287469287469287,0.594690265486726
+2. Temporary job with weekly/daily/monthly wage,"","",""
+Average,0.280864197530864,0.221130221130221,0.323893805309734
+3. Daily labour,"","",""
+Average,0.520576131687243,0.282555282555283,0.692035398230089
+type_jobs_adults_calc,"","",""
+Average,1.26748971193416,0.791154791154791,1.61061946902655
+1. Salaried work,"","",""
+Average,916.257110352674,1088.92432432432,870.229106628242
+2. Casual or daily labour,"","",""
+Average,612.84496124031,677.408163265306,592.745870393901
+3. Income from own business or commerce,"","",""
+Average,181.996975196612,369.476309226933,121.949680511182
+4. Support from family and friends in Libya,"","",""
+Average,18.5073529411765,57.66,5.79545454545455
+5. Support from family and friends in home country,"","",""
+Average,2.67401960784314,6.745,1.35227272727273
+6. Support/remittances from family and friends in Europe,"","",""
+Average,4.40379901960784,9.76,2.66477272727273
+7. Humanitarian assistance,"","",""
+Average,8.66487775790101,19.0477326968974,5.20667726550079
+Zakat,"","",""
+Average,6.5169946332737,18.7374701670644,2.44674085850556
+9. Other (please specify),"","",""
+Average,2.96935096153846,6.46172248803828,1.79775280898876
+incomes_group_calc,"","",""
+Average,1107.13686249193,1453.83425414365,1001.40438079191
+No income,"","",""
+Average,4.84276729559748,12.6943005181347,2.32558139534884
+1. Cash,"","",""
+Average,89.6501746216531,76.445945945946,94.2519623233909
+2. Transferred to bank account in Libya; ,"","",""
+Average,0.168800931315483,0.540540540540541,0.0392464678178964
+3. Transferred to bank account in country of origin;  ,"","",""
+Average,0.722933643771828,0.698198198198198,0.731554160125589
+4. Cheques,"","",""
+Average,0.317229336437718,0.529279279279279,0.243328100470958
+5. Phone top-up cards,"","",""
+Average,0.413853317811409,0.887387387387387,0.248822605965463
+6. Prepaid card or gift card,"","",""
+Average,0.263678696158324,0.952702702702703,0.0235478806907378
+"7. Other in-kind (e.g., food)","","",""
+Average,1.81431897555297,2.99099099099099,1.40423861852433
+8. Other (please specify),"","",""
+Average,0.286961583236321,0.963963963963964,0.0510204081632653
+income_modality_group_calc,"","",""
+Average,98.5884749708964,96.0472972972973,99.4740973312402
+Did you face any challenges obtaining enough money to meet your needs over the last 30 days?,"","",""
+No,56.5,48.9,59.1
+Yes,42.3,49.3,39.8
+Don't know,0.9,1.1,0.9
+Prefer not to answer,0.3,0.7,0.2
+What were the main challenges to obtaining enough money to meet your  needs in the last 30 days?,"","",""
+Lack of work opportunity,55,58,54
+Salary or wages too low,37,42,35
+Salary or wages not regularly paid,47,37,52
+Unable to withdraw enough money from bank account,1,2,1
+No currently functioning banks/financial institutions in my area,2,5,0
+Other (please specify),2,2,2
+Don't know,0,0,0
+Prefer not to answer,0,0,0
+"When buying items for domestic consumption in Libya, do you buy for your household, share a budget with other people or buy only for yourself?","","",""
+I share nearly all expenses with other people (not family members or dependents),36.9,7.4,47.2
+I buy for my household (family members or dependents),27.1,78.4,9.3
+I buy only for myself,17.9,7.4,21.6
+I share only certain types of expenses with other people (not family members or dependents),16,4.3,20.1
+Other (please specify),0.9,0.7,0.9
+Prefer not to answer,0.8,1.1,0.6
+Don't know,0.4,0.7,0.3
+1. Food items,"","",""
+Average,266.040745052387,374.972972972973,228.076923076923
+2. Rent,"","",""
+Average,178.270642201835,332.070469798658,120.401515151515
+3. Shelter maintenance,"","",""
+Average,9.14784633294529,26.3085585585586,3.16718995290424
+4. Water (from all sources combined),"","",""
+Average,20.5081490104773,42.5765765765766,12.8171114599686
+"5. Non-food household items (hygiene items, blankets, lightbulbs, etc.)","","",""
+Average,32.7235157159488,55.6554054054054,24.7315541601256
+6. Utilities (electricity and gas connections),"","",""
+Average,7.00989522700815,20.4256756756757,2.33437990580848
+"7. Fuel (for cooking, for vehicles, etc.)","","",""
+Average,24.1944121071013,59.7364864864865,11.8076923076923
+"8. Health-related expenditures (healthcare, medicine, etc.)","","",""
+Average,31.0145518044237,74.768018018018,15.7660910518053
+"9. Education-related expenditures (school fees, supplies, uniforms, etc.)","","",""
+Average,98.9240196078431,98.9240196078431,
+10. Transportation ,"","",""
+Average,49.3015133876601,89.0202702702703,35.4591836734694
+11. Mobile phone credit,"","",""
+Average,54.6024447031432,67.1103603603604,50.243328100471
+"12. Productive assets (items used to help generate income, such as sewing machines, tools, etc.)","","",""
+Average,25.0681024447031,82.6216216216216,5.01020408163265
+13. Debt repayment,"","",""
+Average,47.4813736903376,45.4166666666667,48.2009419152276
+14. All other expenditures (specify),"","",""
+Average,4.88170163170163,14.1779279279279,1.63679245283019
+what is your total amount of debt (in LYD)?,"","",""
+Average,1776.29045643154,2270.97701149425,1496.82467532468
+What was the primary reason for taking on debt?,"","",""
+Accessing food,35.3,23,42.2
+Paying for other basic needs,20.7,10.3,26.6
+Paying for rent,10.4,18.4,5.8
+Purchasing productive assets (for small business or income-generating activities),9.1,17.2,4.5
+Paying for healthcare,7.5,11.5,5.2
+Paying smuggler or connection house operator,5.8,9.2,3.9
+Paying for release from captivity,2.9,4.6,1.9
+"Purchasing non-productive assets (e.g. TV, household appliances, furniture, gold, etc.)",2.5,1.1,3.2
+Other (please specify),1.7,0,2.6
+Paying for shelter maintenance,1.7,2.3,1.3
+Prefer not to answer,1.2,1.1,1.3
+Paying for education,1.2,1.1,1.3
+What percentage of your income would you estimate you send to family in your country of origin per month?,"","",""
+Average,28.3576594345825,9.44350282485876,34.0951156812339
+what percentage of your income would you estimate you save in Libya (do not spend/send) per month?,"","",""
+Average,18.7720105124836,16.5338983050847,19.4503424657534
+What was the payment modality most commonly used by your household in the past 30 days?,"","",""
+Cash (LYD),98.4,97.7,98.6
+Cash (foreign/non-LYD),0.8,0.7,0.9
+Prefer not to answer,0.3,0.2,0.3
+Bank transfers,0.1,0.2,0.1
+Don't know,0.1,0.2,0.1
+Other (please specify),0.1,0.2,0.1
+Prepaid or gift card,0.1,0.5,0
+Cheques ,0.1,0.2,0
+Do you have access to a marketplace or grocery store where you can find fresh produce in your mahalla or close to your mahalla?,"","",""
+Yes,84.7,94.4,81.4
+No,14.8,5,18.3
+Prefer not to answer,0.3,0.5,0.2
+Don't know,0.1,0.2,0.1
+What means of transport do you usually use to travel to the nearest marketplace or grocery store where you can find fresh produce?,"","",""
+Walking,75.3,67.5,78.5
+Car,12.8,20.5,9.7
+Bicycle,6.3,3.8,7.3
+Driven there by somebody I know,3,6.2,1.7
+Public transport,2.1,1.7,2.3
+Other (please specify),0.3,0.2,0.4
+For how long do you have to travel using this means of transport to get to the nearest marketplace or grocery store where you can find fresh produce?,"","",""
+Less than 15 minutes,66.9,59.9,69.7
+15-29 minutes,21.9,30.3,18.5
+30-59 minutes,8.7,8.6,8.8
+1-2 hours,2.3,1,2.9
+More than 2 hours,0.1,0.2,0.1
+"In the last 30 days, did you face any barriers to consistently accessing marketplaces?","","",""
+No barriers faced when accessing marketplace,76,73,78
+Live too far from marketplace / no means of transport,7,4,8
+Transportation too expensive,12,13,12
+Damage to marketplace,0,0,0
+Damage to roads leading to marketplace,0,0,0
+Insecurity travelling to and from marketplace,7,9,7
+Curfew prevented access to market,0,0,0
+Marketplace never open at a time when we can visit,1,3,0
+Presence of explosive hazards,0,0,0
+Discriminatory practices from market vendors,3,9,1
+lack of documents to travel,3,8,2
+language barriers,4,9,2
+Other (please specify),0,0,0
+Don't know,0,0,0
+Prefer not to answer,0,0,0
+"In the last 30 days, did you face any barriers to regularly purchasing specific items on the market?","","",""
+"No, no barrier faced when purchasing market items",35,32,36
+"Yes, some items are too expensive",60,63,59
+"Yes, some items are not available",14,20,12
+"Yes, we have no means of payment (e.g., not enough hard cash, vendors do not accept prepaid cards)",5,11,4
+"Yes, discriminatory practices from market vendors",4,11,2
+Other (please specify),0,0,0
+Don't know,0,0,0
+Prefer not to answer,0,0,0
+"Which items were too expensive to afford? (select category first, then list specific items)","","",""
+Food items: fresh vegetables/fruits,59,52,62
+Food items: fresh fish/meat/eggs,90,82,92
+Food items: other,34,27,36
+NFIs: Hygiene items for women,9,28,2
+NFIs: Hygiene items for men,29,15,34
+NFIs: Household items,23,32,19
+NFIs: Fuel,21,28,18
+Water,1,2,1
+Medicine or health-related items,20,41,13
+Other (please specify),1,1,0
+Which items were not consistently available?,"","",""
+Food items: fresh vegetables/fruits,16,17,16
+Food items: fresh fish/meat/eggs,30,36,26
+Food items: other,54,43,61
+NFIs: Hygiene items for women,3,8,0
+NFIs: Hygiene items for men,16,6,22
+NFIs: Household items,5,7,5
+NFIs: Fuel,66,67,65
+Water,0,0,1
+Medicine or health-related items,32,60,15
+Other (please specify),1,1,1
+What types of financial service providers do you have access to in or around your mahalla?,"","",""
+Banks,3,9,1
+Hawala,29,30,28
+Financial services provided by local businesses (e.g. petrol stations),3,5,3
+Financial services provided by members of the Libyan community,29,30,29
+Financial services provided by other refugees or migrants,19,14,21
+Financial services provided by an employer,41,36,43
+Financial services provided by a smuggler,5,11,3
+Other (please specify),1,1,1
+Don't know,6,13,4
+Prefer not to answer,1,3,0
+"If you save part of your income, how do you store your salary/money?","","",""
+In a safe place at home,52,58,51
+Transfer back to home country,22,9,26
+Carry it on me,23,11,26
+Put it in a bank account,2,2,2
+Give it to my employer,23,32,21
+Give it to my smuggler,3,12,0
+Ask refugee and migrant friends to store it,6,7,6
+Ask Libyan friends to store it,10,26,5
+Other (please specify),0,0,1
+Don't know,0,1,0
+Prefer not to answer,5,6,5
+"If you transfer some of your money back to your home country (send remittances), how do you send it home?","","",""
+Official money transfer agency,10,5,10
+Unofficial money transfer agency,70,63,71
+Hawala system,13,16,13
+Through a person I know who travels regularly back home,17,39,14
+Through bank account,0,0,0
+Other (please specify),0,0,0
+Don't know,0,1,0
+Prefer not to answer,1,6,0
+"If you transfer some of your money back to your home country (send remittances), what percent extra do you have to pay to transfer each unit of currency?","","",""
+Average,9.71413390010627,16.0833333333333,8.78319123020706
+"1. Sold non-productive household assets or goods (TV, household appliance, furniture, gold, etc.)","","",""
+"No, had no need to use this coping strategy",54.5,47.3,57.1
+Not applicable/This coping strategy is not available to me,35.4,34.2,35.9
+Yes,8.8,17.1,6
+"No, have already exhausted this coping strategy and cannot use it again",1.2,1.4,1.1
+"2. Sold productive household assets or means of transport (sewing machine, wheelbarrow, car, etc.)","","",""
+"No, had no need to use this coping strategy",49.4,46.8,50.2
+Not applicable/This coping strategy is not available to me,45.1,40.5,46.7
+Yes,4.8,11,2.6
+"No, have already exhausted this coping strategy and cannot use it again",0.8,1.6,0.5
+3. Spent savings,"","",""
+"No, had no need to use this coping strategy",44.4,34,48
+Yes,31.5,30.9,31.7
+Not applicable/This coping strategy is not available to me,22.3,33.1,18.5
+"No, have already exhausted this coping strategy and cannot use it again",1.9,2,1.8
+4. Borrowed money,"","",""
+"No, had no need to use this coping strategy",56.8,45.3,60.8
+Not applicable/This coping strategy is not available to me,22.8,23.9,22.4
+Yes,19.1,29.3,15.5
+"No, have already exhausted this coping strategy and cannot use it again",1.4,1.6,1.3
+5. Purchased food on credit or borrowed food,"","",""
+"No, had no need to use this coping strategy",46.4,36.7,49.8
+Not applicable/This coping strategy is not available to me,38.9,36.9,39.6
+Yes,14.1,25.5,10.1
+"No, have already exhausted this coping strategy and cannot use it again",0.6,0.9,0.5
+"6. Reduced expenditures on essential non-food items (water, hygiene items, etc.)","","",""
+"No, had no need to use this coping strategy",48.3,37.6,52
+Yes,39.9,41.4,39.3
+Not applicable/This coping strategy is not available to me,11.9,20.9,8.7
+7. Reduced expenses on health or medicine,"","",""
+"No, had no need to use this coping strategy",57.3,42.8,62.4
+Yes,25.1,33.6,22.1
+Not applicable/This coping strategy is not available to me,15.7,22.7,13.2
+"No, have already exhausted this coping strategy and cannot use it again",1.9,0.9,2.3
+8. Child or children dropped out of school,"","",""
+Not applicable/This coping strategy is not available to me,60,49.1,63.7
+"No, had no need to use this coping strategy",37.7,44.1,35.5
+Yes,2.2,6.8,0.5
+"No, have already exhausted this coping strategy and cannot use it again",0.2,0,0.2
+9. Delayed or skipped paying rent,"","",""
+"No, had no need to use this coping strategy",49.7,38,54
+Not applicable/This coping strategy is not available to me,27.8,27,28.1
+Yes,21.5,33.3,17.2
+"No, have already exhausted this coping strategy and cannot use it again",1,1.7,0.7
+10. Asked strangers for money or food,"","",""
+"No, had no need to use this coping strategy",62.7,50.7,66.9
+Not applicable/This coping strategy is not available to me,29,34.9,26.9
+Yes,7.6,12.8,5.7
+"No, have already exhausted this coping strategy and cannot use it again",0.8,1.6,0.5
+11. Took an additional job,"","",""
+"No, had no need to use this coping strategy",39.5,34,41.4
+Yes,34.5,37.2,33.5
+Not applicable/This coping strategy is not available to me,25.2,28.4,24.1
+"No, have already exhausted this coping strategy and cannot use it again",0.8,0.5,0.9
+"12. HH adult member accepted socially degrading, exploitative, high-risk, or illegal work","","",""
+"No, had no need to use this coping strategy",50.4,46.4,51.8
+Not applicable/This coping strategy is not available to me,47.8,50.5,46.9
+Yes,1.7,2.9,1.3
+"No, have already exhausted this coping strategy and cannot use it again",0.1,0.2,0.1
+"13. HH minor member accepted socially degrading, exploitative, high-risk, or illegal work","","",""
+Not applicable/This coping strategy is not available to me,50.2,50.2,
+"No, had no need to use this coping strategy",47.8,47.8,
+Yes,1.5,1.5,
+"No, have already exhausted this coping strategy and cannot use it again",0.5,0.5,
+"14. Child marriage (i.e., marriage of a household member aged 17 or younger)","","",""
+Not applicable/This coping strategy is not available to me,53.9,53.9,
+"No, had no need to use this coping strategy",44.1,44.1,
+Yes,1.2,1.2,
+"No, have already exhausted this coping strategy and cannot use it again",0.7,0.7,
+What is the main reason why these coping strategies were used?,"","",""
+Accessing food,78,84,76
+Paying for healthcare,24,40,18
+Paying for education,7,16,3
+Paying for shelter,43,49,41
+Paying for other basic needs,52,44,56
+Paying smuggler(s),6,14,3
+Paying a ransom,1,3,1
+Sending money to family in country of origin,49,19,60
+Other (please specify),1,0,1
+Don't know,1,2,0
+Prefer not to answer,0,1,0
+What was the main source of drinking water you used over the past 30 days?,"","",""
+Public network (connected to the shelter),43.4,38.5,45.1
+Bottled water,39.7,45,37.8
+"Protected well (e.g., in your house or in the mosque)",6.5,6.5,6.5
+Water trucking,5.8,4.1,6.4
+Tap accessible to the public  ,3.3,4.5,2.9
+Unprotected well,0.9,0.7,0.9
+Other (please specify),0.2,0.5,0.2
+Prefer not to answer,0.1,0,0.1
+Rainwater,0.1,0.2,0
+"Surface water (lakes, ponds, rivers, etc.)",0.1,0,0.1
+How far is the main source of drinking water from your dwelling?,"","",""
+Up to 100m,34.4,44.7,30.1
+500m or more,19.4,8.6,23.8
+101-200m,16.5,20,15.1
+201-300m,12.8,14.5,12.2
+301-400m,10,7.8,10.9
+401-500m,6.9,4.3,7.9
+"In the last month, has there been any time when you did not have a sufficient quantity of drinking water to meet your daily needs?","","",""
+No,64.9,57.7,67.4
+Yes,34.5,41.2,32.1
+Don't know,0.5,0.7,0.4
+Prefer not to answer,0.2,0.5,0.1
+How would you describe the quality of the drinking water from the main source you used during the last 30 days? ,"","",""
+Water is fine to drink ,87,84,88
+Taste is not good ,10,13,9
+Smell is not good ,1,3,0
+Water is discoloured,1,2,1
+Water causes health issues (like diarrhea),1,2,0
+Other (please specify),0,0,0
+Don't know,3,2,3
+Prefer not to answer,0,0,0
+"What methods do you use, if any, to improve the quality of your drinking water?","","",""
+No treatment methods used,52,50,53
+Boiling,19,31,13
+"Disinfection (tablets, iodine, etc.)",3,6,3
+Water filters,24,14,28
+Other (please specify),2,4,1
+Don't know,3,6,2
+Prefer not to answer,0,0,0
+"Over the past 7 days, on how many days did you have access to drinking water from the public network?","","",""
+Every day (7 days),36.4,41,34.8
+Rarely (1-3 days),28.8,25.5,30
+Most days (4-6 days),25,22.1,26.1
+Not at all (0 days),8.8,10.8,8.2
+Don't know,0.9,0.7,1
+What kind of toilet do you have access to inside your shelter or within easy reach?,"","",""
+Flush toilet (Arabic or Western),48,58,45
+Pour toilet (Arabic or Western),47,36,51
+Dry pit latrine (without water),6,7,6
+No toilet inside shelter or within easy reach,1,1,1
+Other (please specify),0,0,0
+Don't know,0,0,0
+Prefer not to answer,0,1,0
+How far is the nearest accessible toilet from your dwelling?,"","",""
+201-300m,38.9,25,42.9
+Up to 100m,22.2,25,21.4
+101-200m,16.7,0,21.4
+301-400m,16.7,25,14.3
+500m or more,5.6,25,0
+How did you most often dispose of trash over the past 30 days?,"","",""
+"Collected by the municipality, waste management service (private or public), or other authority ",28,26,29
+"Put in a public place designated for waste disposal, to be collected later",46,46,46
+Left in the road or in a public place not designated for waste disposal,15,21,13
+Buried or burned,16,11,17
+Other (please specify),0,0,0
+Don't know,0,0,0
+Prefer not to answer,0,1,0
+How far is the trash disposal point from your dwelling?,"","",""
+Up to 100m,29.1,31.2,28.4
+101-200m,22.9,20,24
+201-300m,16.7,13.2,17.9
+500m or more,16.3,14.4,16.9
+301-400m,9.3,12.6,8.1
+401-500m,5.7,8.5,4.7
+How frequently is your trash collected?,"","",""
+More than once per week,54.8,39.5,59.5
+Once per week,34.1,38.6,32.7
+Once every two weeks,6.6,11.4,5.1
+Don't know,2.1,2.6,1.9
+Once per month,1.7,5.3,0.5
+Less frequently than once per month,0.6,1.8,0.3
+Prefer not to answer,0.2,0.9,0
+"Among these products, are there any that you require but are unable to purchase?","","",""
+There are no hygiene products that we require but are unable to purchase,60,52,62
+Soap (liquid and bar)                                    ,24,19,26
+"Disinfectant - surface cleaner (powder, liquid detergent)",19,26,17
+Toothpaste ,12,11,12
+Clean toothbrushes     ,8,8,9
+Sanitary pads,4,12,1
+Baby diapers                                               ,4,14,0
+Water container (or Jerry can) ,14,10,16
+Shampoo                                                     ,25,21,27
+Dishwashing liquid ,19,17,20
+Other (please specify),1,1,1
+Don't know,1,4,1
+Prefer not to answer,1,2,0
+"If there were products in that list that you require but are unable to purchase, what is the main reason why you can't purchase them?","","",""
+Too expensive,91,91,92
+Not available in the market ,8,9,8
+Can't reach the market ,3,1,4
+Quality not good,8,11,7
+Other (please specify),1,1,0
+Don't know,1,0,1
+Prefer not to answer,2,3,1
+Have you been ill in the past 15 days?,"","",""
+No,77.5,60.8,83.4
+Yes,21.8,38.1,16.2
+Don't know,0.5,0.5,0.5
+Prefer not to answer,0.2,0.7,0
+Did you go to a health facility to access the needed health care?,"","",""
+Yes,77.1,74.6,79.1
+No,22.4,25.4,19.9
+Don't know,0.3,0,0.5
+Prefer not to answer,0.3,0,0.5
+Do you face any challenges accessing health care when you need it?,"","",""
+No,79.9,70.5,83.2
+Yes,17.7,27,14.4
+Don't know,2,1.6,2.1
+Prefer not to answer,0.4,0.9,0.2
+what are the main reasons for you to have limited or no access to healthcare?,"","",""
+Health facilities have been damaged or destroyed,2,2,3
+Distance to health facilities is too far,22,17,26
+Route to health facilities is unsafe ,8,5,10
+Presence of explosive hazards,0,0,0
+No available health facilities that can accept new patients,2,2,2
+No/lack of money to pay for care,35,46,27
+Lack of means of transport to get to the healthcare facilities,10,11,9
+Lack of medical staff in general,15,12,17
+Lack of female medical staff in particular,2,3,1
+Lack of private room(s) for receiving confidential care,2,2,3
+Lack of medicines,12,11,12
+Lack of medical supplies,6,6,5
+Lack of documentation,12,7,16
+Price barriers to access medical aid,19,24,16
+Linguistic barriers,4,5,4
+No available health facilities that accept refugees/migrants,13,12,14
+Did not know where to go,4,2,4
+"For females, denial of permission from family members to visit health facility",0,0,0
+"For females, absence of male companion to accompany during visit to health facility",1,2,0
+Afraid to become known as a migrant,8,3,11
+Other (please specify),0,0,0
+Don't know,1,2,1
+Prefer not to answer,1,1,1
+What do you do when you do not have enough money to pay for all the healthcare that is needed?,"","",""
+"Revert to non-medical alternatives  (e.g., traditional medicine, home treatments)",55,56,54
+Prioritize emergency cases,18,28,8
+Get medical treatment from individuals without professional training,10,11,8
+"Use expired medicine or recycle medical items (e.g., syringes",3,2,4
+Travel abroad for required medical treatment,0,0,0
+Travel to other manitkas for required medical treatment,3,4,2
+Self-treatment,28,20,36
+Do not seek medical help,10,9,10
+"Reduce expenditures on other needs (education, NFIs,  food)",11,13,8
+Visit health centre managed by NGO,6,7,4
+Visit Libyan medical doctor outside medical facilities,1,0,2
+"Visit foreign medical doctor outside medical facilities,",5,2,8
+Other (please specify),3,0,6
+Don't know,3,6,0
+Prefer not to answer,1,0,2
+How do you travel from your place of residence to the nearest health service provider?,"","",""
+By car,31,42.6,26.9
+Have not visited a local health service provider,30.9,12.2,37.4
+By foot,14.6,13.3,15.1
+Driven there by somebody I know,12.2,16.4,10.8
+By public transport,8.4,10.6,7.7
+By bicycle,1.2,1.6,1.1
+No way to get there,0.8,2,0.4
+Don't know,0.3,0.5,0.3
+Prefer not to answer,0.3,0.9,0.2
+Other (please specify),0.1,0,0.2
+How much time does it take you to travel from your place of residence to the nearest health service provider using this form of travel?,"","",""
+Less than 15 minutes,42.2,30.9,47.6
+15-29 minutes,38.8,44.3,36.1
+30-59 minutes,12.2,21.3,7.9
+1-2 hours,6.4,3.5,7.8
+More than 2 hours,0.3,0,0.5
+Prefer not to answer,0.1,0,0.1
+Did you give live birth in Libya during the 2 last years?,"","",""
+No,68.7,55.6,95.5
+Yes,29.9,43.3,2.3
+Don't know,1.5,1.1,2.3
+Who assisted in the delivery?,"","",""
+No one                                          ,0,0,0
+Obstetrician,68,69,0
+General practitioner,2,3,0
+Certified midwife          ,10,8,100
+Uncertified midwife         ,8,8,0
+Nurse                                  ,10,10,0
+Relatives / Friends ,8,8,0
+Other (please specify),0,0,0
+Don't know,0,0,0
+Prefer not to answer,0,0,0
+Do you suffer from any chronic disease?,"","",""
+No,88.6,79.5,91.8
+Yes,10.3,17.6,7.8
+Don't know,0.7,2,0.2
+Prefer not to answer,0.4,0.9,0.2
+Which diseases do you suffer from? ,"","",""
+Blood pressure ,31,32,31
+Heart disease,10,11,9
+Diabetes,30,35,26
+Asthma,11,14,9
+Joint pain (arthritis),25,27,24
+Chronic back pain (spinal cord),7,8,7
+Cataract ,0,0,0
+Stomach ulcers,10,11,8
+Kidney failure,1,0,1
+Epilepsy,1,0,1
+Other (please specify),5,5,5
+Don't know,0,0,0
+Prefer not to answer,0,0,0
+Do you have adequate access to the needed health care services to treat this condition?,"","",""
+"Yes, adequate access",50.3,49.4,51
+"Limited access (only sometimes, limited quantity, etc.)",38,35.4,40
+No access,10.6,12.7,9
+Don't know,1.1,2.5,0
+What are the services that are not available (when needed or prescribed)?,"","",""
+No access to the health facility,20,21,18
+Lack of availability of specialized consultation,46,53,41
+Lack of availability of general practitioners for the follow-up,28,13,39
+"Lack of availability of radiologic tests (X-ray, ultrasound, scan, MRI, etc.)",14,16,12
+"Lack of availability of biologic tests (blood test, urinary test, etc.)",2,5,0
+"Lack of availability of specialized medical investigation (fibroscopy, angiography, etc.)",7,11,4
+Lack of availability of medicines ,32,42,24
+Other (please specify),9,11,8
+Don't know,3,5,2
+Prefer not to answer,1,0,2
+"Within the past 30 days, have you experienced any of the following? (select all that apply)","","",""
+I did not experience any of the below ,36,33,36
+Feeling little interest or pleasure doing things that you normally like,16,16,15
+"Feeling down, depressed or hopeless",22,27,21
+Feeling tired or having little energy for no good reason,34,34,34
+"Trouble falling asleep, staying asleep or sleeping too much",15,21,13
+Felt so nervous that nothing could calm you down,8,10,7
+Felt so afraid that nothing could calm you down,5,9,4
+Felt so angry that you felt out of control,5,7,5
+Prefer not to answer,1,4,0
+"Do you have physical or cognitive difficulties (for example: mobility, hearing, sight, communicating) which impact your ability to carry out day-to-day activities such as working, studying, walking, getting dressed, and remembering things?","","",""
+No,95.5,90.1,97.4
+Yes,3,7.2,1.5
+Prefer not to answer,0.8,1.8,0.5
+Don't know,0.7,0.9,0.6
+Do you fall into any of the following categories:,"","",""
+Minor difficulties carrying out daily activities but does not need assistance or attention,39.2,46.9,26.3
+No difficulty carrying out daily activities,29.4,28.1,31.6
+"A lot of difficulty carrying out daily activiites and needs quite a bit of assistance and atention (e.g., for 3-6 hours/day)",11.8,3.1,26.3
+"Some difficulties carrying out daily activities and needs some assistance and attention (e.g., for 1-2 hours/day)",11.8,12.5,10.5
+Cannot carry out daily activities independently and needs permanent assistance and attention,7.8,9.4,5.3
+What was the cause of the disability?,"","",""
+"Congenital origin (i.e., present since birth)",41.2,37.5,47.4
+Illness,23.5,21.9,26.3
+Road accident,11.8,12.5,10.5
+Domestic accident,7.8,6.2,10.5
+Prefer not to answer,5.9,9.4,0
+Shot from war weapon,5.9,6.2,5.3
+"Mine, unexploded ordnance (UXO), or improvised explosive device (IED)",2,3.1,0
+"Pregnancy complications (i.e., complications to the mother)",2,3.1,0
+Do you have adequate access to the health care that you need to treat or manage your condition?,"","",""
+"Yes, adequate access",45.1,40.6,52.6
+"Limited access (only sometimes, limited quantity, etc.)",33.3,34.4,31.6
+No access,21.6,25,15.8
+What are the services that are not available (when needed or prescribed)?,"","",""
+Lack of physical therapy and/or rehabilitation,38,50,11
+Lack of wheelchair,17,20,11
+"Lack of other assistive devices (e.g., prosthetic limbs or hearing aids)",24,15,44
+Lack of psychosocial support,34,40,22
+Other (please specify),0,0,0
+Don't know,21,20,22
+Prefer not to answer,3,0,11
+1. Boys (6-10),"","",""
+Average,0.218241042345277,0.218241042345277,
+2. Boys (11-17),"","",""
+Average,0.234527687296417,0.234527687296417,
+3. Girls (6-10),"","",""
+Average,0.166123778501629,0.166123778501629,
+4. Girls (11-17) ,"","",""
+Average,0.175895765472313,0.175895765472313,
+children_enrolled_calc,"","",""
+Average,0.794788273615635,0.794788273615635,
+1. Boys (6-10),"","",""
+Average,0.185667752442997,0.185667752442997,
+2. Boys (11-17),"","",""
+Average,0.182410423452769,0.182410423452769,
+3. Girls (6-10),"","",""
+Average,0.130293159609121,0.130293159609121,
+4. Girls (11-17) ,"","",""
+Average,0.146579804560261,0.146579804560261,
+children_attending_calc,"","",""
+Average,0.644951140065147,0.644951140065147,
+notattending_notenrolled_school_male,"","",""
+Average,0.95114006514658,0.95114006514658,
+notattending_notenrolled_school_female,"","",""
+Average,0.58957654723127,0.58957654723127,
+1. Less than 1 month,"","",""
+Average,0,0,
+2. 1-3 months,"","",""
+Average,0.00568181818181818,0.00568181818181818,
+3. 4-6 months,"","",""
+Average,0.00568181818181818,0.00568181818181818,
+4. More than 6 months,"","",""
+Average,0.00568181818181818,0.00568181818181818,
+5. Entire 2018-2019 school year ,"","",""
+Average,0.164772727272727,0.164772727272727,
+Never attended school,"","",""
+Average,0.525641025641026,0.525641025641026,
+notattending_notenrolled_school_male_calc,"","",""
+Average,0.647727272727273,0.647727272727273,
+1. Less than 1 month,"","",""
+Average,0.024390243902439,0.024390243902439,
+2. 1-3 months,"","",""
+Average,0,0,
+3. 4-6 months,"","",""
+Average,0,0,
+4. More than 6 months,"","",""
+Average,0.00813008130081301,0.00813008130081301,
+5. Entire 2018-2019 school year ,"","",""
+Average,0.121951219512195,0.121951219512195,
+Never attended school,"","",""
+Average,0.288461538461538,0.288461538461538,
+notattending_notenrolled_school_female_calc,"","",""
+Average,0.398373983739837,0.398373983739837,
+What type of education do the children in your household have access to in this baladiya?,"","",""
+No access to formal education,31,31,
+Public school,35,35,
+Private school,36,36,
+Koranic school,30,30,
+Other (please specify),3,3,
+Don't know,5,5,
+Prefer not to answer,1,1,
+"Of the school-aged children in your household who are neither enrolled in school nor attending school, why are they not attending school?","","",""
+"Problems with school infrastructure, or school is used for other purpose",27,27,
+"Problems with means, transport, materials, or food",28,28,
+"Problems with quality, curriculum, or capacity",30,30,
+Problems with safety and security,33,33,
+"Problems with child's health or behavior, lack of documentation, child marriage or pregnancy, discrimination, or the need for the child to work at home or for a salary",38,38,
+Other (please specify),17,17,
+Don't know,14,14,
+Prefer not to answer,8,8,
+What are the specific problems around school infrastructure that have contributed to the school-aged children not attending school?,"","",""
+"Lack of basic amenities at school (potable water, heat, electricity)",79,79,
+Lack of infrastructure (school buildings or classrooms) to accommodate all children,59,59,
+Lack of latrines separated by sex,24,24,
+Local schools overcrowded/lack of space in local schools,36,36,
+School is used for other purpose,59,59,
+Other (please specify),0,0,
+Don't know,5,5,
+Prefer not to answer,2,2,
+"What are the specific problems around means, transport, materials, or food that have contributed to the school-aged children not attending school?","","",""
+Distance or transport constraint,73,73,
+School fees or costs,68,68,
+Lack of teaching and learning materials or supplies,32,32,
+Lack of food,14,14,
+Other (please specify),0,0,
+Don't know,2,2,
+Prefer not to answer,2,2,
+"What are the specific problems around quality, curriculum, or capacity that have contributed to the school-aged children not attending school?","","",""
+Language,80,80,
+"One or more school level is not available (pre-primary, primary, secondary, tertiary).",58,58,
+Lack of teachers,6,6,
+Poor quality of teaching,23,23,
+Education is not seen as useful,62,62,
+What is taught is not culturally or age appropriate,46,46,
+Other (please specify),0,0,
+Don't know,3,3,
+Prefer not to answer,0,0,
+What are the specific problems around safety and security that have contributed to the school-aged children not attending school?,"","",""
+Insecurity on the way to school or in the area (real or perceived),66,66,
+The child joined an armed group or military.,6,6,
+"Emotional or physical abuse by teachers (corporal punishment, humiliation, corporal punishment etc.)",30,30,
+"Emotional or physical abuse by peers (bullying, fighting, discrimination, etc)",55,55,
+Displaced by conflict,8,8,
+Displaced by natural disaster,0,0,
+Abduction/detention,31,31,
+Other (please specify),0,0,
+Don't know,6,6,
+Prefer not to answer,3,3,
+"What are the specific problems around child vulnerabilities (health/behavior, documentation, etc.) that have contributed to the school-aged children not attending school?","","",""
+The child has a prolonged illness.,0,0,
+The child has a disability (access issue).,1,1,
+The child is on the move.,43,43,
+Lack of documentation,90,90,
+Child marriage,0,0,
+"Social discrimination (due to ethnicity, religion, poverty, gender, health, disability, or other)",60,60,
+Suspended or expelled for performance or behaviour issues,21,21,
+"The child is pregnant, lactating, or has a child of her own.",1,1,
+The child is busy with chores.,38,38,
+The child works.,11,11,
+Other (please specify),0,0,
+Don't know,0,0,
+Prefer not to answer,1,1,
+Would you like your children in your household that are not attending school to access education while in Libya?,"","",""
+Yes,59.5,59.5,
+No,34,34,
+Prefer not to answer,6.5,6.5,
+Have any children in your household ever faced any of these issues when attending school in Libya?,"","",""
+No issues faced by children in the household when attending school,47,47,
+Lack of functioning latrines,17,17,
+Lack of separate and safe toilets for boys and girls,11,11,
+Lack of clean water,14,14,
+Lack of accessibility for students living with disabilities,2,2,
+Overcrowding,11,11,
+Poor quality of teachers,13,13,
+Violence from teachers (excluding sexual violence or harassment),7,7,
+Bullying/violence from other students (excluding sexual violence or harassment),19,19,
+Sexual violence or harassment,1,1,
+Discrimination,20,20,
+Attempted recruitment by armed actors,0,0,
+"School building conversion into other purposes (displaced accommodation, military barracks, etc.)",4,4,
+Other (please specify),1,1,
+Don't know,2,2,
+Prefer not to answer,1,1,
+1. Attending formal Libyan school unofficially,"","",""
+Average,0.024390243902439,0.024390243902439,
+2. Attending unofficial or unrecognised private school,"","",""
+Average,0.0284552845528455,0.0284552845528455,
+3. Non formal education at NGO centre,"","",""
+Average,0,0,
+4. Employer providing professional training,"","",""
+Average,0.0772357723577236,0.0772357723577236,
+5. Non-formal education at home,"","",""
+Average,0.150406504065041,0.150406504065041,
+6. Non formal education at faith-based organization,"","",""
+Average,0.032520325203252,0.032520325203252,
+7. Non formal education at community centre,"","",""
+Average,0.0040650406504065,0.0040650406504065,
+8. Non formal education at Museum/libraries,"","",""
+Average,0,0,
+"9, Homeschooling/self-learning","","",""
+Average,0.0934959349593496,0.0934959349593496,
+Other (please specify),"","",""
+Average,0,0,
+nonformal_education_boys_calc,"","",""
+Average,0.410569105691057,0.410569105691057,
+1. Attending formal Libyan school unofficially,"","",""
+Average,0.0106382978723404,0.0106382978723404,
+2. Attending unofficial or unrecognised private school,"","",""
+Average,0.0372340425531915,0.0372340425531915,
+3. Non formal education at NGO centre,"","",""
+Average,0,0,
+4. Employer providing professional training,"","",""
+Average,0,0,
+5. Non-formal education at home,"","",""
+Average,0.0797872340425532,0.0797872340425532,
+6. Non formal education at faith-based organization,"","",""
+Average,0.00531914893617021,0.00531914893617021,
+7. Non formal education at community centre,"","",""
+Average,0.0106382978723404,0.0106382978723404,
+8. Non formal education at Museum/libraries,"","",""
+Average,0,0,
+"9, Homeschooling/self-learning","","",""
+Average,0.0797872340425532,0.0797872340425532,
+Other (please specify),"","",""
+Average,0,0,
+nonformal_education_girls_calc,"","",""
+Average,0.223404255319149,0.223404255319149,
+How often do your children have access to non-formal education?,"","",""
+Never,52.9,52.9,
+Five days a week,16,16,
+Between four and two times per week,10.5,10.5,
+Prefer not to answer,8.2,8.2,
+Few days per month,6.5,6.5,
+Once per week,5.9,5.9,
+What type of formal education do refugee and migrant children have access to in this baladiya?  ,"","",""
+No access to education,23,22,24
+Public school,22,39,17
+Private school,30,48,23
+Koranic school,19,36,14
+Other (please specify),1,1,1
+Don't know,34,10,42
+Prefer not to answer,1,3,1
+What kinds of non-formal education do refugee and migrant children have access to in this location?,"","",""
+No access to non formal education,25,25,25
+Attending formal Libyan school unofficially,5,8,4
+Attending unofficial or unrecognised private school,10,17,7
+Non formal education at NGO centre,3,8,1
+Employer providing professional training,4,14,1
+Non-formal education at home,12,26,7
+Non formal education at faith-based organization,10,22,5
+Non formal education at community centre,3,8,1
+Non formal education at Museum/libraries,1,4,0
+"9, Homeschooling/self-learning",12,21,9
+Other (please specify),0,1,0
+Don't know,42,17,50
+Prefer not to answer,1,2,1
+Do you feel like you are in danger in this baladiya?,"","",""
+No,70.6,65.5,72.4
+Yes,25.6,31.5,23.5
+Don't know,3.6,2.7,3.8
+Prefer not to answer,0.2,0.2,0.2
+Why do you feel in danger?,"","",""
+I have no one who can help me,26,30,24
+I am afraid of or affected by conflict in my area,31,28,32
+I am afraid of being robbed,35,44,31
+I was previously robbed,26,36,21
+I am afraid of being arrested because of lack of documents,23,22,23
+I was previously arrested because lack of documents,11,19,7
+I am afraid of being arrested for other reasons (not related to documents),9,13,8
+I was previously arrested for other reasons (not related to documents),7,14,4
+I was previously threatened,8,10,6
+I am afraid of being held captive or detained against my will,17,7,22
+I was previously held captive or detained against my will,6,11,4
+I am afraid of being kidnapped. ,18,24,15
+I was previously kidnapped,5,10,3
+I am afraid of being tortured,13,7,16
+I was previously tortured,5,6,5
+I am afraid of being physically harassed (not sexually),6,10,4
+I previously suffered from physical harassment (not sexual),1,4,0
+I previously suffered from verbal harassment,16,22,13
+I am afraid of being sexually harassed,2,3,1
+I previously suffered from sexual harassment,1,2,0
+I am afraid of or affected by enviromental hazards,0,1,0
+I am afraid of or affected by mine/ UXO risks,1,1,1
+Other (please specify),0,0,0
+Don't know,1,2,0
+Prefer not to answer,0,0,0
+You said that you feel in danger in this baladiya. How do you try to avoid these risks?,"","",""
+There is nothing I can do to avoid the risk,9,21,3
+I avoid walking/staying alone,44,47,42
+I avoid walking out at night time,70,67,71
+I am cautious not to be noticed by strangers,12,9,14
+I avoid taking always the same streets/routines,12,13,12
+I always carry my belongings/savings with me,4,2,4
+I hand my belongings/savings to a friend in Libya,9,10,8
+I use a cashier,2,2,2
+I carry a weapon to defend myself,3,8,1
+I lock up the house,26,32,23
+I move to another location,2,1,3
+I stay inside/hidden until the situation improved,7,10,6
+I seek protection by a Libyan,16,23,12
+I seek protection by other refugees or migrants,4,8,3
+Other (please specify),1,0,2
+Don't know,0,0,0
+Prefer not to answer,0,0,0
+What would make you feel safer/less vulnerable to the dangers in Libya?,"","",""
+Having a shelter,26,36,21
+Being with family or friends,36,49,30
+Having a phone to communicate and ask for help,12,16,9
+Having more economic resources,5,7,4
+Being able to speak Arabic,23,31,20
+Having the support of a Libyan person,45,37,48
+Having official or ID documents,23,31,19
+Having a job,8,11,7
+Knowing other migrants who speak my language,17,12,19
+Being a man,6,2,8
+Being a woman ,5,16,0
+Other (please specify),1,1,1
+Don't know,3,5,2
+Prefer not to answer,0,1,0
+Property documents,19,16,21
+Family book,19,42,2
+Certificate of nationality,28,53,9
+Passport,72,88,60
+National ID card,28,30,26
+Residence Certificate,55,37,68
+Birth certificate,8,7,9
+Refugee card,31,51,16
+Other (please specify),1,0,2
+Don't know,2,2,2
+Prefer not to answer,0,0,0
+What do you think are the safety and security concerns for refugee and migrant children (under 18) in your baladiya?,"","",""
+None,32,27,34
+Being robbed,41,46,39
+Being threatened with violence,14,23,11
+Being kidnapped ,15,27,10
+Suffering from torture ,4,5,4
+Suffering from physical harassment (not sexual) ,9,13,7
+Suffering from verbal harassment ,17,22,15
+Suffering from sexual harrassment,3,8,2
+Being killed,6,7,6
+Being arrested or detained ,15,16,14
+Being exploited,19,25,17
+Other (please specify),0,0,0
+Don't know,8,5,9
+Prefer not to answer,0,1,0
+Are girls and boys affected differently by the dangerous situations you mentioned?,"","",""
+Boys are more affected,50.9,39.1,55.8
+Girls are more affected,29.2,47.5,21.7
+No,19.9,13.5,22.5
+Have you been able to move freely around this baladiya during all of the last year?,"","",""
+Yes,71,74.5,69.7
+No,26.4,23.2,27.6
+Don't know,2.2,2,2.2
+Prefer not to answer,0.5,0.2,0.5
+Why were you unable to move freely around this baladiya?,"","",""
+Conflict or insecurity,65,57,68
+Lack of money to travel,13,13,13
+Lack of means of  transportation,7,7,7
+I was kidnapped,4,10,2
+I was arrested or detained,11,17,9
+I was afraid of being arrested,41,28,45
+Other (please specify),2,1,2
+Don't know,1,5,0
+Prefer not to answer,1,5,0
+How long were you unable to move freely for?,"","",""
+more than a year,32.8,30.1,33.6
+three to less than six months,14.3,16.5,13.7
+six months to a year,14.3,11.7,15.1
+less than one week,10.8,8.7,11.4
+one to less than three months,8.6,6.8,9.1
+two weeks - less than one month,8.1,5.8,8.8
+one week - less than two weeks,5.1,7.8,4.3
+Don't know,4.8,10.7,3.1
+Prefer not to answer,1.1,1.9,0.9
+Presence of explosive hazards,"","",""
+No,90.7,82.9,93.5
+Yes,8.3,16,5.7
+Prefer not to answer,0.9,1.1,0.9
+What course of action did you take?,"","",""
+No action taken,68.5,50.7,86.1
+Contacted local authorities,19.6,33.8,5.6
+Contacted hotline/emergency services                      ,3.5,7,0
+"Self-help (i.e., cleared the explosive hazard themselves)",3.5,2.8,4.2
+Don't know,2.8,2.8,2.8
+Contacted a mine action authority (specify),1.4,2.8,0
+Prefer not to answer,0.7,0,1.4
+Have you received any form of information on the risk of explosive hazards? ,"","",""
+No,81.6,75.2,83.8
+Yes,16.6,22.5,14.5
+Don't know,1.7,2,1.6
+Prefer not to answer,0.1,0.2,0.1
+"From what source? 
+","","",""
+Training session                      ,1,3,1
+Presentation/briefing,8,13,6
+Community representative (i.e.m a focal point going around talking to people),36,51,28
+Social media ,51,70,41
+Conventional media (TV/radio/newspaper),42,64,31
+"Posters, flyers, or other printed material ",41,60,30
+School,4,5,3
+Other (please specify),2,0,3
+Don't know,2,4,1
+Prefer not to answer,0,0,0
+"Have you been harmed as a result of being exposed to an explosive hazards in the past? (Do not include being harmed by a household or work-related explosion, such as from a gas cylinder. This question relates only to weapons-related explosions.)","","",""
+No,98.7,95.9,99.7
+Yes,0.8,2.7,0.2
+Prefer not to answer,0.5,1.4,0.2
+"Have you received any received any rehabilitation, health care, special assistance, or government assistance for your injury or impairment?","","",""
+"Yes, financial support",14,8,50
+"Yes, psychological and psychosocial support",7,0,50
+"Yes, support in physical therapy and functional rehabilitation",7,8,0
+"Yes, donation of mobility devices (wheelchairs, crutches, etc.)",0,0,0
+"Yes, donation of prosthesis & orthotics (artificial limb, externally applied device, etc.)",0,0,0
+Assistance needed but none received,43,50,0
+Do not need assistance,14,8,50
+Other (please specify),0,0,0
+Don't know,7,8,0
+Prefer not to answer,14,17,0
+Public hospital ,18,25,0
+Private clinic,0,0,0
+Family,9,12,0
+Private donations,18,12,33
+Local NGO,0,0,0
+Municipal authorities,0,0,0
+Religious authorities,0,0,0
+International NGO,18,25,0
+Social Solidarity Fund,0,0,0
+Libyan doctor outside medical facility ,9,12,0
+Non-Libyan doctor ,9,12,0
+Other (please specify),0,0,0
+Don't know,9,12,0
+Prefer not to answer,36,25,67
+Which of the following services have you needed to access during the past year in Libya?,"","",""
+None,38,18,44
+"Public hospital, ",23,39,17
+"Private hospital or clinic, ",20,28,17
+Mental health and psychosocial support,3,10,1
+Sexual and reproductive health services,3,9,0
+Gender-based violence assistance,2,5,1
+"Public education, ",5,18,1
+Private education,4,12,1
+"Banking, ",9,13,8
+"Police assistance, ",8,19,5
+"Rental accommodation, ",15,20,13
+Legal services (solicitor/lawyer),4,12,1
+Assistance from humanitarian organisations,13,19,11
+Transport,8,6,8
+Information on available basic services,6,7,6
+Other (please specify),1,0,1
+Don't know,2,3,1
+Prefer not to answer,0,0,0
+"1. Public hospital,","","",""
+Was able to access without assistance,45.4,49.7,42
+Was able to access with the help of Libyan friends or colleagues,35.7,30.1,40.2
+Was not able to access,18.9,20.2,17.8
+Why did you not have access to this service?,"","",""
+I was deliberately excluded by the service providers,18,23,13
+I had no money to pay for it,35,46,26
+I was unable to move freely,14,9,18
+I had no documents to access it,20,11,28
+There was poor access or transport to the service,4,0,8
+I did not know where to find the service,8,0,15
+I could not speak the language of the service providers,5,0,10
+Other (please specify),4,6,3
+Don't know,18,23,13
+Prefer not to answer,0,0,0
+2. Private hospital,"","",""
+Was able to access without assistance,44.3,52,39.9
+Was able to access with the help of Libyan friends or colleagues,43.4,32,50
+Was not able to access,12.2,16,10.1
+Why did you not have access to this service?,"","",""
+I was deliberately excluded by the service providers,14,20,9
+I had no money to pay for it,76,75,77
+I was unable to move freely,0,0,0
+I had no documents to access it,14,5,23
+There was poor access or transport to the service,5,0,9
+I did not know where to find the service,2,0,5
+I could not speak the language of the service providers,2,0,5
+Other (please specify),0,0,0
+Don't know,2,5,0
+Prefer not to answer,0,0,0
+3. Public education,"","",""
+Was not able to access,48.9,46.8,60
+Was able to access without assistance,35.1,36.7,26.7
+Was able to access with the help of Libyan friends or colleagues,16,16.5,13.3
+Why did you not have access to this service?,"","",""
+I was deliberately excluded by the service providers,17,22,0
+I had no money to pay for it,37,46,0
+I was unable to move freely,9,8,11
+I had no documents to access it,39,38,44
+There was poor access or transport to the service,9,8,11
+I did not know where to find the service,7,0,33
+I could not speak the language of the service providers,9,11,0
+Other (please specify),4,3,11
+Don't know,9,8,11
+Prefer not to answer,2,0,11
+4. Private education,"","",""
+Was not able to access,45.5,44.4,50
+Was able to access with the help of Libyan friends or colleagues,28.8,31.5,16.7
+Was able to access without assistance,25.8,24.1,33.3
+Why did you not have access to this service?,"","",""
+I was deliberately excluded by the service providers,13,12,17
+I had no money to pay for it,63,62,67
+I was unable to move freely,3,4,0
+I had no documents to access it,30,33,17
+There was poor access or transport to the service,7,0,33
+I did not know where to find the service,13,8,33
+I could not speak the language of the service providers,23,29,0
+Other (please specify),0,0,0
+Don't know,17,21,0
+Prefer not to answer,0,0,0
+5. Banking,"","",""
+Was not able to access,49,32.1,58.6
+Was able to access with the help of Libyan friends or colleagues,31.6,55.4,18.2
+Was able to access without assistance,19.4,12.5,23.2
+Why did you not have access to this service?,"","",""
+I was deliberately excluded by the service providers,36,39,34
+I had no money to pay for it,18,72,2
+I was unable to move freely,4,6,3
+I had no documents to access it,45,78,34
+There was poor access or transport to the service,13,17,12
+I did not know where to find the service,14,6,17
+I could not speak the language of the service providers,13,44,3
+Other (please specify),9,0,12
+Don't know,4,0,5
+Prefer not to answer,0,0,0
+6. Police assistance,"","",""
+Was able to access with the help of Libyan friends or colleagues,60.4,63.9,55.7
+Was not able to access,27.1,19.3,37.7
+Was able to access without assistance,12.5,16.9,6.6
+Why did you not have access to this service?,"","",""
+I was deliberately excluded by the service providers,28,12,39
+I had no money to pay for it,8,12,4
+I was unable to move freely,10,0,17
+I had no documents to access it,31,25,35
+There was poor access or transport to the service,3,0,4
+I did not know where to find the service,10,12,9
+I could not speak the language of the service providers,8,6,9
+Other (please specify),10,12,9
+Don't know,10,25,0
+Prefer not to answer,3,6,0
+7. Rental accommodation,"","",""
+Was able to access with the help of Libyan friends or colleagues,65.3,55.6,70.4
+Was not able to access,17.8,22.2,15.4
+Was able to access without assistance,17,22.2,14.2
+Why did you not have access to this service?,"","",""
+I was deliberately excluded by the service providers,0,0,0
+I had no money to pay for it,65,70,62
+I was unable to move freely,0,0,0
+I had no documents to access it,13,0,23
+There was poor access or transport to the service,2,0,4
+I did not know where to find the service,22,25,19
+I could not speak the language of the service providers,2,5,0
+Other (please specify),0,0,0
+Don't know,7,10,4
+Prefer not to answer,0,0,0
+8. Legal services (solicitor/lawyer),"","",""
+Was able to access with the help of Libyan friends or colleagues,76.4,92.7,23.5
+Was not able to access,13.9,1.8,52.9
+Was able to access without assistance,9.7,5.5,23.5
+Why did you not have access to this service?,"","",""
+I was deliberately excluded by the service providers,10,0,11
+I had no money to pay for it,50,0,56
+I was unable to move freely,10,0,11
+I had no documents to access it,10,100,0
+There was poor access or transport to the service,10,0,11
+I did not know where to find the service,10,0,11
+I could not speak the language of the service providers,10,0,11
+Other (please specify),0,0,0
+Don't know,0,0,0
+Prefer not to answer,0,0,0
+9. Assistance from humanitarian organisations ,"","",""
+Was not able to access,47,44.6,48.5
+Was able to access with the help of Libyan friends or colleagues,42.9,44.6,41.9
+Was able to access without assistance,10,10.8,9.6
+Why did you not have access to this service?,"","",""
+I was deliberately excluded by the service providers,10,3,14
+I had no money to pay for it,3,3,3
+I was unable to move freely,10,5,12
+I had no documents to access it,7,3,9
+There was poor access or transport to the service,5,11,2
+I did not know where to find the service,71,68,73
+I could not speak the language of the service providers,2,3,2
+Other (please specify),0,0,0
+Don't know,11,19,6
+Prefer not to answer,0,0,0
+10. Transport,"","",""
+Was able to access without assistance,57.8,51.9,59.3
+Was able to access with the help of Libyan friends or colleagues,31.9,29.6,32.4
+Was not able to access,10.4,18.5,8.3
+Why did you not have access to this service?,"","",""
+I was deliberately excluded by the service providers,0,0,0
+I had no money to pay for it,64,80,56
+I was unable to move freely,14,0,22
+I had no documents to access it,0,0,0
+There was poor access or transport to the service,0,0,0
+I did not know where to find the service,0,0,0
+I could not speak the language of the service providers,0,0,0
+Other (please specify),0,0,0
+Don't know,21,20,22
+Prefer not to answer,7,0,11
+Have you encountered any refugee or migrant children under 18 that were working in this baladiya within the last year?,"","",""
+No,38.4,33.8,40
+"Yes, I encountered boys working",36,38.1,35.2
+"Yes, I encountered both boys and girls working",16.8,19.6,15.9
+Don't know,6.3,4.3,7
+"Yes, I encounter girls working",1.6,2.7,1.3
+Prefer not to answer,0.9,1.6,0.6
+How many refugee or migrant children under 18 that were working in this baladiya did you encounter within the last year?,"","",""
+11-20; ,36.6,41.4,34.6
+1-10; ,30.9,34,29.7
+21-50; ,17,12.7,18.7
+51-100; ,9.2,5.6,10.6
+more than 100,3.4,3.7,3.3
+Don't know,2.8,2.6,2.8
+Prefer not to answer,0.1,0,0.1
+"Have you encountered any UASC (refugee or migrant children unaccompanied by their parents, relatives or legal guardian) in this baladiya within the last year?","","",""
+No,61.5,43.5,67.8
+Yes,26.5,40.3,21.7
+Don't know,10.7,14.2,9.4
+Prefer not to answer,1.3,2,1
+What are your migration intentions for the next 6 months?,"","",""
+Stay in my current location in Libya,46,49.1,44.9
+Leave Libya,34.1,34,34.1
+Move to another location in Libya,15.1,10.8,16.6
+Don't know,3.9,4.7,3.6
+Prefer not to answer,0.9,1.4,0.8
+Why do you have these migration intentions?,"","",""
+For employment/economic reasons,71,67,73
+For security reasons,22,32,19
+To be with family/friends,13,18,11
+I came to Libya with the plan to travel to another country,9,11,8
+I came to Libya with the plan to return home after a short amount of time,8,5,9
+Other (please specify),3,5,2
+Don't know,2,5,1
+Prefer not to answer,2,4,2
+How long do you plan to stay in Libya for?,"","",""
+More than 1 year,55.1,61.7,52.9
+Don't know,23.8,26.7,22.9
+Between 6 and 12 months,20.7,10.9,24
+Prefer not to answer,0.4,0.8,0.3
+Where do you want to go after Libya?,"","",""
+Europe,60.9,72.8,56.8
+Return to home country,34.1,19.2,39.3
+Elsewhere,2.7,4.6,2.1
+Don't know,1,1.3,0.9
+Another African country,0.9,2,0.5
+Prefer not to answer,0.3,0,0.5
+What are your top 3 priority needs?,"","",""
+Access to cash,73,69,74
+Food,54,56,54
+Water,12,14,11
+Shelter support,20,22,19
+Medical care,34,38,33
+Sanitation services,2,3,1
+Electricity or fuel,8,13,6
+Access to means of communication (mobile phone network coverage or mobile phone credit),4,2,5
+Household or hygiene items,2,2,1
+Employment (livelihood opportunities),44,24,51
+Vocational training,5,4,5
+Education for children,7,23,2
+Child-friendly spaces or activities,1,2,0
+"Explosive hazard clearance, risk education, or services for survivors",1,1,1
+Gender-based violence support,2,2,2
+"Psychosocial support (e.g., counseling)",4,5,4
+"Legal assistance (e.g., civil documentation, house/land/property, family law)",4,7,3
+Other (please specify),1,1,2
+Don't know,0,0,0
+Prefer not to answer,0,0,0
+Did you receive humanitarian assistance during the previous 6 months?,"","",""
+No,83.2,66.4,89.1
+Yes,15.6,31.8,10
+Don't know,0.6,0.7,0.6
+Prefer not to answer,0.5,1.1,0.3
+What was the modality of the assistance received?,"","",""
+cash,36,38,35
+vouchers,1,3,0
+in kind,41,48,34
+Mixed (in-kind and cash/voucher),23,13,34
+"Services (e.g., health care, education, PSS, GBV, case management, etc)",14,23,4
+Other (please specify),1,1,1
+Don't know,0,0,0
+Prefer not to answer ,0,0,0
+From what source? ,"","",""
+International organisations/NGOs ,29,40,17
+Local organisations ,28,38,17
+Private donations,47,38,58
+Government or local authorities ,10,19,1
+Religious entities,19,24,14
+Other (please specify),2,3,2
+Don't know,1,2,1
+Prefer not to answer,0,1,0
+Are you satisfied with the aid you received?,"","",""
+Yes,82.5,78,87.4
+No,15.3,19.1,11
+Don't know,1.1,1.4,0.8
+Prefer not to answer,1.1,1.4,0.8
+Why were you not satisfied with the aid received?,"","",""
+Quality not good,73.2,74.1,71.4
+Quality not good enough,22,18.5,28.6
+Prefer not to answer,2.4,3.7,0
+Other (please specify),2.4,3.7,0
+"In the last year, did you face any barriers to receiving humanitarian assistance?","","",""
+No barriers faced in receiving humanitarian assistance,31,36,29
+Not aware of any assistance,59,50,62
+Lack of consent from actor controlling territory ,1,4,0
+Damage to roads leading to area of assistance,0,0,0
+Insecurity travelling to area of assistance,4,7,3
+Checkpoints or roadblocks ,3,6,2
+Presence of explosive hazards,0,0,0
+Other (please specify),1,2,1
+Don't know,2,1,2
+Prefer not to answer,0,1,0
+"If you were to receive assistance in the future, what kind of assistance would you prefer to receive?","","",""
+Mixed (cash and in-kind),38.5,32.4,40.7
+Cash in hand,38.4,40.8,37.6
+Do not want to receive assistance,8,4.3,9.3
+"Services (e.g., health care, education, PSS, GBV, case management, etc)",6.9,8.1,6.4
+"In-kind (house repairs, construction materials, NFIs, etc.)",4.4,8.1,3.1
+Cash via bank transfer,1.8,2,1.7
+Don't know,0.9,2.5,0.4
+Prefer not to answer,0.5,1.1,0.2
+Other (please specify),0.3,0.5,0.3
+Cash via e-transfer ,0.2,0,0.2
+Voucher ,0.1,0.2,0.1
+"If you would prefer to receive in-kind assistance, what type of in-kind assistance would you like to receive?","","",""
+"Non-food household items (blankets, mattresses, kitchen sets, etc.)",70.7,75,66.7
+Repairs/rehab work in the shelter,20,13.9,25.6
+"Construction materials (cement, wood, tools, etc.)",5.3,5.6,5.1
+Don't know,1.3,2.8,0
+Prefer not to answer,1.3,2.8,0
+Other (please specify),1.3,0,2.6
+What is your primary source of information on the humanitarian assistance in your current baladiya of residence?,"","",""
+Do not receive information on humanitarian assistance,31.8,12.4,38.6
+Community leaders,17.4,24.5,14.9
+Family members and friends,14.5,14,14.7
+Social media,9.3,15.5,7.1
+Charity organization,8.2,7,8.6
+Humanitarian organization,7.8,8.6,7.5
+TV,4.9,9.7,3.2
+Don't know,3.7,3.8,3.6
+Radio,1.3,2.3,1
+Government,0.8,1.8,0.4
+Prefer not to answer,0.3,0.5,0.3
+What type of information would you like to receive from aid providers? ,"","",""
+The security situation here,29,39,26
+Finding missing people,2,3,2
+How to register for aid,36,32,38
+Food prices,6,6,6
+How to get healthcare/medical attention,27,29,26
+"How to replace personal documentation (e.g., birth certificate, ID)",10,19,7
+How to get access to education,6,17,3
+How to find work,22,16,24
+How to get more money/financial support,37,26,40
+Information about possible return to place of origin/relocation,7,3,8
+How to complain about the aid we are receiving,2,2,2
+Other (please specify),1,0,1
+Don't know,3,4,3
+Prefer not to answer,1,1,0
+Who/where would you prefer to receive information from?,"","",""
+Community leader,26,32,25
+Places of worship,22,23,22
+Government Officials,14,16,13
+Friends/family inside Libya ,49,44,51
+Friends/family in country of origin,5,4,6
+Friends/family in other countries (diaspora),1,1,1
+Aid workers from the United Nations,27,20,30
+Aid workers from local NGOs,18,18,18
+Aid workers from International NGOs,20,19,20
+Other (please specify),1,1,1
+Don't know,2,4,1
+Prefer not to answer,0,1,0
+What is your preferred means of receiving the information?,"","",""
+Phone call,57.9,63.1,56
+Facebook,9.3,5.9,10.4
+In person / face-to-face (please specify from whom),8.9,5.4,10.1
+SMS,5.4,6.5,5
+Television,4,4.3,3.9
+Leaflets,4,2.3,4.6
+WhatsApp (or other mobile phone based platform),3.3,5.4,2.5
+Billboards,2.4,1.4,2.7
+Posters,1.6,1.1,1.8
+Don't know,1.1,2.3,0.7
+Loudspeakers,0.7,1.1,0.5
+Other (please specify),0.4,0.2,0.5
+Other internet platforms,0.4,0.5,0.4
+Prefer not to answer,0.3,0.5,0.2
+Twitter,0.3,0,0.4
+Newspapers,0.1,0.2,0.1
+In the last 6 months have you been asked about what aid you would like to receive?,"","",""
+No,90.6,80.2,94.3
+Yes,7.6,16.2,4.6
+Don't know,1.3,2.7,0.9
+Prefer not to answer,0.5,0.9,0.3
+Did you receive what you asked for? ,"","",""
+No,50,44.4,56.9
+Yes,48.5,52.8,43.1
+Prefer not to answer,1.5,2.8,0
+"How would you prefer to provide feedback to aid providers about the quality, quantity and appropriateness of the aid you will receive?  ","","",""
+Face to face with member of the community ,56.5,61.5,54.8
+Phone call,30.8,27,32.2
+SMS,3,3.4,2.9
+Complaints/suggestions box,2.6,2,2.7
+Social media (specify site),2.2,1.1,2.5
+Don't know,1.5,2.5,1.2
+E-mail,1.4,0.7,1.6
+Prefer not to answer,0.6,1.1,0.5
+Letter,0.6,0.5,0.7
+Other (please specify),0.3,0.2,0.4
+Tweet ,0.3,0,0.5

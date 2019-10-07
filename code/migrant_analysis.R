@@ -6,34 +6,27 @@ library(parallel)
 library(dplyr)
 
 
-questions <- read.csv("./input/questionnaire.csv", stringsAsFactors = F)
-choices <- read.csv("./input/choices.csv", stringsAsFactors = F)
+questions <- read.csv("./input/questionnaire_edited.csv", stringsAsFactors = F)
+choices <- read.csv("./input/choices_edited.csv", stringsAsFactors = F)
+choices$label..English..en. <- gsub("^\\d+[.]\\s*","", choices$label..English..en.)
 data <- load_data(file = "./input/data.csv")
-sampling_frame <- load_samplingframe(file = "./input/sampling_frame.csv")
-questionnaire <- load_questionnaire(data = data,
+data <- mutate_if(data, is.character, na_if, "")
+#sampling_frame <- load_samplingframe(file = "./input/sampling_frame.csv")
+questionnaire <- load_questionnaire(data = mydata,
                                     questions = questions,
                                     choices = choices,
                                     choices.label.column.to.use = "label::English (en)")
-analysisplan <- load_analysisplan(file = "./input/analysisplan_medians.csv")
+#analysisplan <- load_analysisplan(file = "./input/analysisplan_medians.csv")
 #analysisplan <- make_analysisplan_all_vars(df = data,questionnaire = questionnaire,repeat.for.variable = "mantika_label")
 
 kobostandards::check_input(data = data, questions = questions, choices = choices,
                            analysisplan = analysisplan) %>% write.csv("./output/check_input.csv")
 
-weights <-map_to_weighting(sampling.frame = sampling_frame,
-                           data.stratum.column = "strata.names",
-                           sampling.frame.population.column = "population",
-                           sampling.frame.stratum.column = "strata.names",
-                           data = data)
-
-#weights(data) %>% write.csv("./output/weightes.csv")
 
 results <- from_analysisplan_map_to_output(data = data,
                                            analysisplan = analysisplan,
                                            questionnaire = questionnaire
                                            )
-
-labeled_results <- lapply(results$results, map_to_labeled,questionnaire)
 
 map_to_master_table(results_object = labeled_results, filename = "./output/overall_repeat.csv")
 
@@ -47,16 +40,14 @@ map_to_master_table(results_object = labeled_results, filename = "./output/overa
                                                #filename = "overall_Mantika_output.html")
 
 
-group_diff_case <- map_to_case(hypothesis.type = "group_difference_median",
-                    dependent.var.type = "numerical",
+group_diff_case <- map_to_case(hypothesis.type = "group_difference",
+                    dependent.var.type = "categorical",
                     independent.var.type = "categorical")
 
-case_result<-map_to_result(data = data,
-                      dependent.var = "own_business_income",
-                      independent.var = "displacement_status",
-                      case = group_diff_case,
-                      weighting = weights,
-                      questionnaire = questionnaire)
+case_result<-map_to_result(data = mydata,
+                      dependent.var = "psychologica_distress_signs_under18",
+                      independent.var = "mantika_label",
+                      case = group_diff_case)
 
 median_direct_case <- map_to_case(hypothesis.type = "direct_reporting_median",
                     dependent.var.type = "numerical")
@@ -64,14 +55,12 @@ median_direct_case <- map_to_case(hypothesis.type = "direct_reporting_median",
 direct_case <- map_to_case(hypothesis.type = "direct_reporting",
                            dependent.var.type = "categorical")
 
-case_result<- map_to_result(data = data,
-                           dependent.var = "food_source",
-                           case = direct_case,
-                           weighting = weights,
-                           questionnaire = questionnaire
+case_result<- map_to_result(data = mydata %>% filter(mantika_label=="Tripoli"),
+                           dependent.var = "psychologica_distress_signs_under18",
+                           case = direct_case
                            )
 
 map_to_visualisation(case_result)
 
 case_result %>% map_to_labeled(questionnaire) -> result_labeled
-map_to_file(result_labeled$summary.statistic,"./output/food_summary_statistics.csv")
+map_to_file(result_labeled$summary.statistic,"./output/psychologica_distress_signs_under18_mantika.csv")

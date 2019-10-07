@@ -5,15 +5,12 @@ library(tidyverse)
 
 # Correcting blank cells to NA
 
-data <- mutate_if(data, is.character, na_if, "")
-
 # filtering data for what we want to analyze
 # leave select multiple text columns in
 
 text <- filter(questions, str_detect(type, "(\\btext\\b)|(\\bnote\\b)"))$name
-choices$label..English..en. <- gsub("^\\d+[.]\\s*","", choices$label..English..en.)
 
-data_to_analyze <- data %>%
+data_to_analyze <- mydata %>%
   select(-one_of(text)) %>%
   select(-start, -end, -today, -audit, -device_id, -mantika, -enumerator_id, -organisation_name, -enumerator_name,
          -baladiya, -baladiya_label, -consent, -hoh, -`_index`, -`_uuid`, -`_submission_time`, -`_id`,
@@ -21,6 +18,14 @@ data_to_analyze <- data %>%
          -`_geolocation_precision`, -geolocation) %>%
   select_if(~ !(all(is.na(.x)) | all(. == "")))
 
+
+data_to_analyze <- data_to_analyze %>% mutate(
+  arabic_speaking= ifelse(languages.arabic==1, "yes","no")
+)
+
+data_to_analyze <- data_to_analyze %>% mutate(
+  working_status= ifelse(type_jobs.didnt_work==1, "did_not_work","is_working")
+)
 strata_output <- table_maker(data_to_analyze, 
                             questions, 
                             choices,
@@ -28,7 +33,7 @@ strata_output <- table_maker(data_to_analyze,
                             labels = T, 
                             language = "english", 
                             "Libya", 
-                            "region_of_origin")
+                            "live_with_family")
 
-saveRDS(strata_output, "output/overall_region_origin.RDS")
-write_csv(strata_output, "output/overall_region_origin.csv", na = "")
+saveRDS(strata_output, "output/live_with_family.RDS")
+write_csv(strata_output, "output/live_with_family.csv", na = "")

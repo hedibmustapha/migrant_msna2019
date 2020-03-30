@@ -27,7 +27,7 @@ get_group <- function(df) {
 }
 
 # weighted mean
-meanR <- function(x, df, digits = 1, x_name = NULL, group = NULL) {
+meanR <- function(x, df, digits = 0, x_name = NULL, group = NULL) {
   if (is.null(x_name)) {
     x_name <- deparse(substitute(x))
   }
@@ -45,7 +45,7 @@ meanR <- function(x, df, digits = 1, x_name = NULL, group = NULL) {
 }
 
 # weighted median
-medianR <- function(x, df, x_name = NULL, group = NULL) {
+medianR <- function(x, df, x_name = NULL, group = NULL, digits =0) {
   if (is.null(x_name)) {
     x_name <- deparse(substitute(x))
   }
@@ -59,7 +59,7 @@ medianR <- function(x, df, x_name = NULL, group = NULL) {
   if (length(x) == 0) {
     NA
   } else {
-    median(x)
+    round(median(x), digits)
   }
 }
 
@@ -85,7 +85,31 @@ percent_response <- function(x, df, ..., x_name = NULL, group = NULL) {
     NA
   } else {
     pct <- sum(str_detect(x, args)) / length(x)
-    round(100 * pct, 1)
+    round(100 * pct, 0)
+  }
+}
+
+# get count response
+count_response <- function(x, df, ..., x_name = NULL, group = NULL) {
+  if (is.null(x_name)) {
+    x_name <- deparse(substitute(x))
+  }
+  group_var <- group_vars(df)
+  
+  args <- list(...)
+  args <- unlist(args)
+  args <- paste0("\\b", args, "\\b")
+  args <- paste0("(", paste0(args, collapse = "|"), ")")
+  if (!is.null(group) & nrow(df) == length(x)) {
+    x <- x[df[[group_var]] == group]
+  }
+  
+  x <- x[!is.na(x)]
+  
+  if (length(x) == 0) {
+    NA
+  } else {
+    sum(str_detect(x, args))
   }
 }
 
@@ -103,7 +127,7 @@ num_percent_response <- function(x, df, ..., group = NULL) {
     NA
   } else {
     pct <- sum((x %in% args)) / length(x)
-    round(100 * pct, 1)
+    round(100 * pct, 0)
   }
 }
 
@@ -159,7 +183,9 @@ select_percents <- function(x, n, df, survey_sheet, choice_sheet, return_what, l
       labels[n]
     } else if (return_what == "percent") {
       counts <- counts[order(counts, decreasing = T)]
-      round(100 * (counts[n] / length(x)), 1)
+      round(100 * (counts[n] / length(x)), 0)
+    } else if (return_what == "count") {
+      counts <- counts[order(counts, decreasing = T)][n]
     }
   }
 }

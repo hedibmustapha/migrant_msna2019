@@ -1,0 +1,16 @@
+"","dependent.var","independent.var","dependent.var.value","independent.var.value","numbers","se","min","max"
+"1","rcsi_category","time_arrival_category","high","2_4_years_ago",0.363449691991786,NA,0.32068793212732,0.406211451856253
+"2","rcsi_category","time_arrival_category","low","2_4_years_ago",0.381930184804928,NA,0.33873574856094,0.425124621048916
+"3","rcsi_category","time_arrival_category","medium","2_4_years_ago",0.254620123203285,NA,0.21588969974711,0.293350546659461
+"4","rcsi_category","time_arrival_category","high","2_years_ago",0.3,NA,0.265773173445228,0.334226826554772
+"5","rcsi_category","time_arrival_category","low","2_years_ago",0.389855072463768,NA,0.353427931708198,0.426282213219339
+"6","rcsi_category","time_arrival_category","medium","2_years_ago",0.310144927536232,NA,0.275597297594396,0.344692557478068
+"7","rcsi_category","time_arrival_category","high","4_6_years_ago",0.281818181818182,NA,0.222310655267139,0.341325708369224
+"8","rcsi_category","time_arrival_category","low","4_6_years_ago",0.495454545454545,NA,0.429320932524774,0.561588158384317
+"9","rcsi_category","time_arrival_category","medium","4_6_years_ago",0.222727272727273,NA,0.167691685335418,0.277762860119127
+"10","rcsi_category","time_arrival_category","high","6_8_years_ago",0.282442748091603,NA,0.205274369116385,0.359611127066821
+"11","rcsi_category","time_arrival_category","low","6_8_years_ago",0.572519083969466,NA,0.487718423694049,0.657319744244883
+"12","rcsi_category","time_arrival_category","medium","6_8_years_ago",0.145038167938931,NA,0.084676615566628,0.205399720311235
+"13","rcsi_category","time_arrival_category","high","more_8_years",0.342245989304813,NA,0.274175062299148,0.410316916310478
+"14","rcsi_category","time_arrival_category","low","more_8_years",0.53475935828877,NA,0.463197971435433,0.606320745142107
+"15","rcsi_category","time_arrival_category","medium","more_8_years",0.122994652406417,NA,0.0758746868533997,0.170114617959435

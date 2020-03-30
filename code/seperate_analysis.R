@@ -235,3 +235,28 @@ mydata %>% select(salaried_work,
                   mantika_label) %>% group_by(mantika_label) %>%  summarise_all(list(~median(.,na.rm = T))) %>%
   write.csv("../final_analysis/mantika_medians.csv")
 
+select_one_names <- filter(questions, str_detect(type,"(\\bselect_one\\b)"))$name
+select_one_names<- select_one_names[select_one_names %in% names(data)]
+select_multiple_names <- names(data)[str_detect(names(data),"(\\b[.]\\b)")]
+select_one_multiple_data <- data[,c(select_one_names,select_multiple_names)]
+
+select_one_multiple_data <- select_one_multiple_data %>% mutate(
+  rcsi_category = mydata$rcsi_category,
+  cash_coping = mydata$cash_coping,
+  time_arrival_category = mydata$time_arrival_category,
+  type_jobs_categories = mydata$type_job_categories,
+  mantika_label = mydata$mantika_label
+)
+
+select_one_multiple_data <- select_one_multiple_data %>%
+  select(-enumerator_id, -organisation_name, -pulled_name,
+       -baladiya, -consent)
+
+reachR::aggregate_count(select_one_multiple_data,split.by ="time_arrival_category",ignore.missing.data = T,
+                        write.to.file = "../final_analysis/counts_by_time_arrival_category.csv")
+
+table(mydata$time_arrival_category,mydata$mantika_label) %>% 
+  write.csv("../final_analysis/counts_mantika_time_arrival_category.csv")
+
+table(mydata$type_job_categories,mydata$mantika_label) %>% 
+  write.csv("../final_analysis/counts_mantika_type_jobs.csv")

@@ -1,0 +1,33 @@
+to_values,target_variables,conditions
+1,wash_index_1,"primary_drinkingwater_source %in% c(""unprotected_well"",""surface_water"") | unsufficient_quantity_water == ""yes"""
+0,wash_index_1,"!(primary_drinkingwater_source %in% c(""unprotected_well"",""surface_water"",""dk"",""dwta"")) & unsufficient_quantity_water == ""no"""
+1,wash_index_2,"sm_selected(toilet_type, exactly = c(""no_toilet""))"
+0,wash_index_2,"sm_selected(toilet_type, none = c(""no_toilet"", ""dk"",""dwta""))"
+1,shelter_index_1,"shelter_type %in% c(""unfinished_rooms"",""public_building_not_used_for_shelter"",""private_building_not_used_for_shelter"",""tent_caravan"",""temporary_shelter_ngos"",""camp_informal_settlement"",""outdoors"")"
+0,shelter_index_1,"!(shelter_type %in% c(""unfinished_rooms"",""public_building_not_used_for_shelter"",""private_building_not_used_for_shelter"",""tent_caravan"",""temporary_shelter_ngos"",""camp_informal_settlement"",""dk"",""dwta"",""outdoors""))"
+1,shelter_index_2,"occupancy_status %in% c(""medium_damage"",""heavy_damage"",""shelter_destroyed"")"
+0,shelter_index_2,"!(occupancy_status %in% c(""medium_damage"",""heavy_damage"",""shelter_destroyed"",""dk"",""dwta""))"
+1,shelter_index_3,"eviction_threat %in% c(""yes_threatened_with_eviction"",""yes_recently_evicted"")"
+0,shelter_index_3,"!(eviction_threat %in% c(""yes_threatened_with_eviction"",""yes_recently_evicted"",""dk"",""dwta""))"
+1,food_sector,fsi >= 2.5
+0,food_sector,fsi < 2.5
+1,education_sector,notattending_notenrolled_school_male > 0 | notattending_notenrolled_school_female > 0
+0,education_sector,notattending_notenrolled_school_male == 0 & notattending_notenrolled_school_female == 0
+1,health_sector,"access_healthcare_challenges == ""yes"""
+0,health_sector,"access_healthcare_challenges == ""no"""
+1,protection_index_1,"explosive_hazards_injured  == ""yes"""
+0,protection_index_1,"explosive_hazards_injured  == ""no"""
+1,protection_index_2,"presence_explosive_hazards == ""yes"" & explosive_hazards_risk_awareness == ""no"""
+0,protection_index_2,"presence_explosive_hazards == ""no"" | explosive_hazards_risk_awareness == ""yes"""
+1,protection_index_3,lack_of_docs >=1
+0,protection_index_3,lack_of_docs == 0
+1,protection_index_4,"freedom_movement == ""no"""
+0,protection_index_4,"freedom_movement == ""yes"""
+1,protection_index_5,uasc_male > 0 | uasc_female > 0
+0,protection_index_5,uasc_male == 0 & uasc_female == 0
+1,protection_index_6,"sm_selected(issues_faced_attending_school, any = c(""violence_from_teacher"",""violence_from_students"",""sexual_violence_harassment"",""discrimination_school"",""attempted_recruitment_armed_actors"",""school_building_conversion_other_purpose""))"
+0,protection_index_6,"sm_selected(issues_faced_attending_school, none = c(""violence_from_teacher"",""violence_from_students"",""sexual_violence_harassment"",""discrimination_school"",""attempted_recruitment_armed_actors"",""school_building_conversion_other_purpose"",""dk"",""dwta"")) | is_skipped(issues_faced_attending_school)"
+1,protection_index_7,psycho_distress.little_interest + psycho_distress.feeling_down + psycho_distress.feeling_tired +  psycho_distress.trouble_sleeping +  psycho_distress.nervous_afraid + psycho_distress.afraid_cannot_calmdown + psycho_distress.angry > 2
+0,protection_index_7,psycho_distress.little_interest + psycho_distress.feeling_down + psycho_distress.feeling_tired +  psycho_distress.trouble_sleeping +  psycho_distress.nervous_afraid + psycho_distress.afraid_cannot_calmdown + psycho_distress.angry <= 2
+1,protection_index_8,permanent_job_minor > 0 | temporary_job_minor > 0 | daily_labour_minor > 0
+0,protection_index_8,permanent_job_minor == 0 & temporary_job_minor == 0 & daily_labour_minor == 0

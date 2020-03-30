@@ -1,0 +1,84 @@
+"","dependent.var","independent.var","dependent.var.value","independent.var.value","numbers","se","min","max","repeat.var","repeat.var.value","p.value"
+"1","Livelihood cash coping","region_of_origin","extreme","e_africa",0.0161290322580645,NA,-0.00606539373457309,0.0383234582507021,NA,NA,0.00186495164651267
+"2","Livelihood cash coping","region_of_origin","minimal","e_africa",0.185483870967742,NA,0.117002316601716,0.253965425333768,NA,NA,0.00186495164651267
+"3","Livelihood cash coping","region_of_origin","severe","e_africa",0.217741935483871,NA,0.145028150183844,0.290455720783898,NA,NA,0.00186495164651267
+"4","Livelihood cash coping","region_of_origin","stress","e_africa",0.580645161290323,NA,0.493705704095841,0.667584618484804,NA,NA,0.00186495164651267
+"5","Livelihood cash coping","region_of_origin","extreme","mena",0.0032,NA,-0.00123221202009283,0.00763221202009283,NA,NA,0.00186495164651267
+"6","Livelihood cash coping","region_of_origin","minimal","mena",0.3488,NA,0.311398677632639,0.386201322367361,NA,NA,0.00186495164651267
+"7","Livelihood cash coping","region_of_origin","severe","mena",0.208,NA,0.176148067869768,0.239851932130232,NA,NA,0.00186495164651267
+"8","Livelihood cash coping","region_of_origin","stress","mena",0.44,NA,0.401045119615513,0.478954880384487,NA,NA,0.00186495164651267
+"9","Livelihood cash coping","region_of_origin","minimal","other",0.476190476190476,NA,0.324996692804003,0.627384259576949,NA,NA,0.00186495164651267
+"10","Livelihood cash coping","region_of_origin","severe","other",0.238095238095238,NA,0.109156746389194,0.367033729801282,NA,NA,0.00186495164651267
+"11","Livelihood cash coping","region_of_origin","stress","other",0.285714285714286,NA,0.148954362952322,0.42247420847625,NA,NA,0.00186495164651267
+"12","Livelihood cash coping","region_of_origin","extreme","w_c_africa",0.00757575757575758,NA,0.0019793767097234,0.0131721384417918,NA,NA,0.00186495164651267
+"13","Livelihood cash coping","region_of_origin","minimal","w_c_africa",0.287878787878788,NA,0.258655616811687,0.317101958945889,NA,NA,0.00186495164651267
+"14","Livelihood cash coping","region_of_origin","severe","w_c_africa",0.231601731601732,NA,0.204374114392574,0.258829348810889,NA,NA,0.00186495164651267
+"15","Livelihood cash coping","region_of_origin","stress","w_c_africa",0.472943722943723,NA,0.440719772994302,0.505167672893144,NA,NA,0.00186495164651267
+"16","Livelihood cash coping","with_children_uasc","extreme","no",0.002356637863315,NA,-0.000309615488486244,0.00502289121511625,NA,NA,5.87950522252937e-08
+"17","Livelihood cash coping","with_children_uasc","minimal","no",0.323644933228594,NA,0.297917935372404,0.349371931084784,NA,NA,5.87950522252937e-08
+"18","Livelihood cash coping","with_children_uasc","severe","no",0.241948153967007,NA,0.218398857264115,0.2654974506699,NA,NA,5.87950522252937e-08
+"19","Livelihood cash coping","with_children_uasc","stress","no",0.432050274941084,NA,0.4048113840557,0.459289165826468,NA,NA,5.87950522252937e-08
+"20","Livelihood cash coping","with_children_uasc","extreme","yes",0.0180995475113122,NA,0.0056590431939049,0.0305400518287195,NA,NA,5.87950522252937e-08
+"21","Livelihood cash coping","with_children_uasc","minimal","yes",0.260180995475113,NA,0.219238819129534,0.301123171820692,NA,NA,5.87950522252937e-08
+"22","Livelihood cash coping","with_children_uasc","severe","yes",0.165158371040724,NA,0.130506815028748,0.1998099270527,NA,NA,5.87950522252937e-08
+"23","Livelihood cash coping","with_children_uasc","stress","yes",0.556561085972851,NA,0.510201055018565,0.602921116927136,NA,NA,5.87950522252937e-08
+"24","Livelihood cash coping","type_job_category","extreme","daily_labour",0.00645161290322581,NA,0.000143231836332796,0.0127599939701188,NA,NA,0.932602823815841
+"25","Livelihood cash coping","type_job_category","minimal","daily_labour",0.308064516129032,NA,0.271686174457382,0.344442857800682,NA,NA,0.932602823815841
+"26","Livelihood cash coping","type_job_category","severe","daily_labour",0.211290322580645,NA,0.179125019696799,0.243455625464491,NA,NA,0.932602823815841
+"27","Livelihood cash coping","type_job_category","stress","daily_labour",0.474193548387097,NA,0.43484941052841,0.513537686245783,NA,NA,0.932602823815841
+"28","Livelihood cash coping","type_job_category","extreme","did_not_work",0.0102040816326531,NA,-0.00971328215359976,0.0301214454189059,NA,NA,0.932602823815841
+"29","Livelihood cash coping","type_job_category","minimal","did_not_work",0.306122448979592,NA,0.21478243530035,0.397462462658833,NA,NA,0.932602823815841
+"30","Livelihood cash coping","type_job_category","severe","did_not_work",0.214285714285714,NA,0.132965034843875,0.295606393727554,NA,NA,0.932602823815841
+"31","Livelihood cash coping","type_job_category","stress","did_not_work",0.469387755102041,NA,0.370480858267273,0.568294651936809,NA,NA,0.932602823815841
+"32","Livelihood cash coping","type_job_category","extreme","permanent_temporary_other",0.00406917599186165,NA,8.55719260601275e-05,0.00805278005766317,NA,NA,0.932602823815841
+"33","Livelihood cash coping","type_job_category","minimal","permanent_temporary_other",0.305188199389624,NA,0.276372722955321,0.334003675823927,NA,NA,0.932602823815841
+"34","Livelihood cash coping","type_job_category","severe","permanent_temporary_other",0.231943031536114,NA,0.205531369907217,0.258354693165011,NA,NA,0.932602823815841
+"35","Livelihood cash coping","type_job_category","stress","permanent_temporary_other",0.458799593082401,NA,0.427617956005953,0.489981230158849,NA,NA,0.932602823815841
+"36","Livelihood cash coping","arabic_speaking","extreme","no",0.0078740157480315,NA,0.000992624971477704,0.0147554065245853,NA,NA,3.86332241748327e-08
+"37","Livelihood cash coping","arabic_speaking","minimal","no",0.223622047244094,NA,0.191181469809032,0.256062624679157,NA,NA,3.86332241748327e-08
+"38","Livelihood cash coping","arabic_speaking","severe","no",0.274015748031496,NA,0.239290446067611,0.308741049995381,NA,NA,3.86332241748327e-08
+"39","Livelihood cash coping","arabic_speaking","stress","no",0.494488188976378,NA,0.455562322879253,0.533414055073503,NA,NA,3.86332241748327e-08
+"40","Livelihood cash coping","arabic_speaking","extreme","yes",0.00555555555555556,NA,0.00111820576740357,0.00999290534370754,NA,NA,3.86332241748327e-08
+"41","Livelihood cash coping","arabic_speaking","minimal","yes",0.356481481481482,NA,0.327887892779132,0.385075070183831,NA,NA,3.86332241748327e-08
+"42","Livelihood cash coping","arabic_speaking","severe","yes",0.191666666666667,NA,0.168168272016089,0.215165061317245,NA,NA,3.86332241748327e-08
+"43","Livelihood cash coping","arabic_speaking","stress","yes",0.446296296296296,NA,0.416619295391143,0.475973297201449,NA,NA,3.86332241748327e-08
+"44","Livelihood cash coping",NA,"extreme","NA",0.00641399416909621,NA,0.0026347087177158,0.0101932796204766,NA,NA,NA
+"45","Livelihood cash coping",NA,"minimal","NA",0.307288629737609,NA,0.28544664568011,0.329130613795109,NA,NA,NA
+"46","Livelihood cash coping",NA,"severe","NA",0.222157434402332,NA,0.202477712344568,0.241837156460097,NA,NA,NA
+"47","Livelihood cash coping",NA,"stress","NA",0.464139941690962,NA,0.440530112375422,0.487749771006502,NA,NA,NA
+"48","rcsi_category","region_of_origin","high","e_africa",0.395161290322581,NA,0.309026683423061,0.481295897222101,NA,NA,8.2109325717063e-12
+"49","rcsi_category","region_of_origin","low","e_africa",0.274193548387097,NA,0.19559587009221,0.352791226681984,NA,NA,8.2109325717063e-12
+"50","rcsi_category","region_of_origin","medium","e_africa",0.330645161290323,NA,0.247759390815439,0.413530931765206,NA,NA,8.2109325717063e-12
+"51","rcsi_category","region_of_origin","high","mena",0.232,NA,0.198874219037433,0.265125780962567,NA,NA,8.2109325717063e-12
+"52","rcsi_category","region_of_origin","low","mena",0.5024,NA,0.463162030560867,0.541637969439133,NA,NA,8.2109325717063e-12
+"53","rcsi_category","region_of_origin","medium","mena",0.2656,NA,0.230940531957018,0.300259468042982,NA,NA,8.2109325717063e-12
+"54","rcsi_category","region_of_origin","high","other",0.119047619047619,NA,0.0210098407897824,0.217085397305456,NA,NA,8.2109325717063e-12
+"55","rcsi_category","region_of_origin","low","other",0.714285714285714,NA,0.57752579152375,0.851045637047678,NA,NA,8.2109325717063e-12
+"56","rcsi_category","region_of_origin","medium","other",0.166666666666667,NA,0.053845486423878,0.279487846909455,NA,NA,8.2109325717063e-12
+"57","rcsi_category","region_of_origin","high","w_c_africa",0.376623376623377,NA,0.345350024205776,0.407896729040977,NA,NA,8.2109325717063e-12
+"58","rcsi_category","region_of_origin","low","w_c_africa",0.390692640692641,NA,0.359202008922553,0.422183272462729,NA,NA,8.2109325717063e-12
+"59","rcsi_category","region_of_origin","medium","w_c_africa",0.232683982683983,NA,0.205412049589425,0.25995591577854,NA,NA,8.2109325717063e-12
+"60","rcsi_category","with_children_uasc","high","no",0.26865671641791,NA,0.24428271567127,0.293030717164551,NA,NA,1.95820279640847e-13
+"61","rcsi_category","with_children_uasc","low","no",0.469756480754124,NA,0.442312860262307,0.497200101245942,NA,NA,1.95820279640847e-13
+"62","rcsi_category","with_children_uasc","medium","no",0.261586802827965,NA,0.237419678844037,0.285753926811894,NA,NA,1.95820279640847e-13
+"63","rcsi_category","with_children_uasc","high","yes",0.463800904977376,NA,0.417263814062464,0.510337995892287,NA,NA,1.95820279640847e-13
+"64","rcsi_category","with_children_uasc","low","yes",0.319004524886878,NA,0.275509364947304,0.362499684826452,NA,NA,1.95820279640847e-13
+"65","rcsi_category","with_children_uasc","medium","yes",0.217194570135747,NA,0.178715745833821,0.255673394437673,NA,NA,1.95820279640847e-13
+"66","rcsi_category","type_job_category","high","daily_labour",0.298387096774194,NA,0.262335204842209,0.334438988706178,NA,NA,1.24098947776769e-13
+"67","rcsi_category","type_job_category","low","daily_labour",0.453225806451613,NA,0.41400192416051,0.492449688742716,NA,NA,1.24098947776769e-13
+"68","rcsi_category","type_job_category","medium","daily_labour",0.248387096774194,NA,0.214342288978738,0.282431904569649,NA,NA,1.24098947776769e-13
+"69","rcsi_category","type_job_category","high","did_not_work",0.683673469387755,NA,0.591508849375026,0.775838089400484,NA,NA,1.24098947776769e-13
+"70","rcsi_category","type_job_category","low","did_not_work",0.142857142857143,NA,0.0735066344110423,0.212207651303243,NA,NA,1.24098947776769e-13
+"71","rcsi_category","type_job_category","medium","did_not_work",0.173469387755102,NA,0.0984259089126756,0.248512866597528,NA,NA,1.24098947776769e-13
+"72","rcsi_category","type_job_category","high","permanent_temporary_other",0.292980671414039,NA,0.264500442770236,0.321460900057842,NA,NA,1.24098947776769e-13
+"73","rcsi_category","type_job_category","low","permanent_temporary_other",0.444557477110885,NA,0.413462383740265,0.475652570481505,NA,NA,1.24098947776769e-13
+"74","rcsi_category","type_job_category","medium","permanent_temporary_other",0.262461851475076,NA,0.234930110075423,0.28999359287473,NA,NA,1.24098947776769e-13
+"75","rcsi_category","arabic_speaking","high","no",0.420472440944882,NA,0.382039777381917,0.458905104507846,NA,NA,4.03945165555573e-25
+"76","rcsi_category","arabic_speaking","low","no",0.264566929133858,NA,0.230224261621722,0.298909596645995,NA,NA,4.03945165555573e-25
+"77","rcsi_category","arabic_speaking","medium","no",0.31496062992126,NA,0.278796287688698,0.351124972153822,NA,NA,4.03945165555573e-25
+"78","rcsi_category","arabic_speaking","high","yes",0.259259259259259,NA,0.233097321507075,0.285421197011443,NA,NA,4.03945165555573e-25
+"79","rcsi_category","arabic_speaking","low","yes",0.528703703703704,NA,0.498903252197063,0.558504155210344,NA,NA,4.03945165555573e-25
+"80","rcsi_category","arabic_speaking","medium","yes",0.212037037037037,NA,0.187634868627675,0.236439205446399,NA,NA,4.03945165555573e-25
+"81","rcsi_category",NA,"high","NA",0.318950437317784,NA,0.296885960079417,0.341014914556152,NA,NA,NA
+"82","rcsi_category",NA,"low","NA",0.430903790087464,NA,0.407460115424425,0.454347464750502,NA,NA,NA
+"83","rcsi_category",NA,"medium","NA",0.250145772594752,NA,0.229642287434641,0.270649257754863,NA,NA,NA

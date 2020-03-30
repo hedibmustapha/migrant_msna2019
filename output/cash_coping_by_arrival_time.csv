@@ -1,0 +1,21 @@
+"","dependent.var","independent.var","dependent.var.value","independent.var.value","numbers","se","min","max"
+"1","Livelihood cash coping","time_arrival_category","extreme","2_4_years_ago",0.00616016427104723,NA,-0.000796025131424002,0.0131163536735185
+"2","Livelihood cash coping","time_arrival_category","minimal","2_4_years_ago",0.268993839835729,NA,0.229570924525177,0.308416755146281
+"3","Livelihood cash coping","time_arrival_category","severe","2_4_years_ago",0.250513347022587,NA,0.211990849331611,0.289035844713563
+"4","Livelihood cash coping","time_arrival_category","stress","2_4_years_ago",0.474332648870637,NA,0.429939693031626,0.518725604709647
+"5","Livelihood cash coping","time_arrival_category","extreme","2_years_ago",0.00289855072463768,NA,-0.00111674108476829,0.00691384253404365
+"6","Livelihood cash coping","time_arrival_category","minimal","2_years_ago",0.266666666666667,NA,0.233637922134284,0.299695411199049
+"7","Livelihood cash coping","time_arrival_category","severe","2_years_ago",0.266666666666667,NA,0.233637922134284,0.299695411199049
+"8","Livelihood cash coping","time_arrival_category","stress","2_years_ago",0.463768115942029,NA,0.42652176361108,0.501014468272978
+"9","Livelihood cash coping","time_arrival_category","extreme","4_6_years_ago",0.0136363636363636,NA,-0.00170408303008698,0.0289768103028143
+"10","Livelihood cash coping","time_arrival_category","minimal","4_6_years_ago",0.372727272727273,NA,0.308769404451897,0.436685141002649
+"11","Livelihood cash coping","time_arrival_category","severe","4_6_years_ago",0.136363636363636,NA,0.090971048941213,0.18175622378606
+"12","Livelihood cash coping","time_arrival_category","stress","4_6_years_ago",0.477272727272727,NA,0.411204739378151,0.543340715167304
+"13","Livelihood cash coping","time_arrival_category","extreme","6_8_years_ago",0.00763358778625954,NA,-0.0072856372495399,0.022552812822059
+"14","Livelihood cash coping","time_arrival_category","minimal","6_8_years_ago",0.519083969465649,NA,0.433439500742855,0.604728438188443
+"15","Livelihood cash coping","time_arrival_category","severe","6_8_years_ago",0.16793893129771,NA,0.103862372818278,0.232015489777142
+"16","Livelihood cash coping","time_arrival_category","stress","6_8_years_ago",0.305343511450382,NA,0.226398393053313,0.38428862984745
+"17","Livelihood cash coping","time_arrival_category","extreme","more_8_years",0.0106951871657754,NA,-0.00406255723675247,0.0254529315683033
+"18","Livelihood cash coping","time_arrival_category","minimal","more_8_years",0.331550802139037,NA,0.264009415350656,0.399092188927419
+"19","Livelihood cash coping","time_arrival_category","severe","more_8_years",0.122994652406417,NA,0.0758746868533997,0.170114617959434
+"20","Livelihood cash coping","time_arrival_category","stress","more_8_years",0.53475935828877,NA,0.463197971435433,0.606320745142107

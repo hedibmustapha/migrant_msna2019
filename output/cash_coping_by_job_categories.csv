@@ -1,0 +1,20 @@
+"","dependent.var","independent.var","dependent.var.value","independent.var.value","numbers","se","min","max"
+"1","Livelihood cash coping","type_job_categories","extreme","daily_labour",0.00645161290322581,NA,0.000143231836332796,0.0127599939701188
+"2","Livelihood cash coping","type_job_categories","minimal","daily_labour",0.308064516129032,NA,0.271686174457382,0.344442857800682
+"3","Livelihood cash coping","type_job_categories","severe","daily_labour",0.211290322580645,NA,0.179125019696799,0.243455625464491
+"4","Livelihood cash coping","type_job_categories","stress","daily_labour",0.474193548387097,NA,0.43484941052841,0.513537686245783
+"5","Livelihood cash coping","type_job_categories","extreme","did_not_work",0.0102040816326531,NA,-0.00971328215359976,0.0301214454189059
+"6","Livelihood cash coping","type_job_categories","minimal","did_not_work",0.306122448979592,NA,0.21478243530035,0.397462462658833
+"7","Livelihood cash coping","type_job_categories","severe","did_not_work",0.214285714285714,NA,0.132965034843875,0.295606393727554
+"8","Livelihood cash coping","type_job_categories","stress","did_not_work",0.469387755102041,NA,0.370480858267273,0.568294651936809
+"9","Livelihood cash coping","type_job_categories","minimal","more_than_2_jobs",0.133333333333333,NA,0.0759331033041432,0.190733563362523
+"10","Livelihood cash coping","type_job_categories","severe","more_than_2_jobs",0.111111111111111,NA,0.0580445796768361,0.164177642545386
+"11","Livelihood cash coping","type_job_categories","stress","more_than_2_jobs",0.755555555555556,NA,0.682988165232289,0.828122945878822
+"12","Livelihood cash coping","type_job_categories","extreme","permanent_job",0.0041407867494824,NA,-0.0015918172459439,0.0098733907449087
+"13","Livelihood cash coping","type_job_categories","minimal","permanent_job",0.451345755693582,NA,0.406921967503384,0.49576954388378
+"14","Livelihood cash coping","type_job_categories","severe","permanent_job",0.153209109730849,NA,0.121054597947339,0.185363621514359
+"15","Livelihood cash coping","type_job_categories","stress","permanent_job",0.391304347826087,NA,0.347736212464708,0.434872483187466
+"16","Livelihood cash coping","type_job_categories","extreme","temporary_job",0.00547945205479452,NA,-0.00210133182966747,0.0130602359392565
+"17","Livelihood cash coping","type_job_categories","minimal","temporary_job",0.175342465753425,NA,0.136292645402529,0.21439228610432
+"18","Livelihood cash coping","type_job_categories","severe","temporary_job",0.380821917808219,NA,0.330955585692863,0.430688249923575
+"19","Livelihood cash coping","type_job_categories","stress","temporary_job",0.438356164383562,NA,0.387401642918212,0.489310685848911

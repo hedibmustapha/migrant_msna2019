@@ -1,0 +1,16 @@
+"","dependent.var","independent.var","dependent.var.value","independent.var.value","numbers","se","min","max"
+"1","rcsi_category","type_job_categories","high","daily_labour",0.298387096774194,NA,0.262335204842209,0.334438988706178
+"2","rcsi_category","type_job_categories","low","daily_labour",0.453225806451613,NA,0.41400192416051,0.492449688742716
+"3","rcsi_category","type_job_categories","medium","daily_labour",0.248387096774194,NA,0.214342288978738,0.282431904569649
+"4","rcsi_category","type_job_categories","high","did_not_work",0.683673469387755,NA,0.591508849375026,0.775838089400484
+"5","rcsi_category","type_job_categories","low","did_not_work",0.142857142857143,NA,0.0735066344110423,0.212207651303243
+"6","rcsi_category","type_job_categories","medium","did_not_work",0.173469387755102,NA,0.0984259089126756,0.248512866597528
+"7","rcsi_category","type_job_categories","high","more_than_2_jobs",0.288888888888889,NA,0.212355248849969,0.365422528927809
+"8","rcsi_category","type_job_categories","low","more_than_2_jobs",0.37037037037037,NA,0.288828829411599,0.451911911329142
+"9","rcsi_category","type_job_categories","medium","more_than_2_jobs",0.340740740740741,NA,0.260709717696357,0.420771763785125
+"10","rcsi_category","type_job_categories","high","permanent_job",0.17184265010352,NA,0.138165646153,0.205519654054039
+"11","rcsi_category","type_job_categories","low","permanent_job",0.610766045548654,NA,0.567239486213349,0.65429260488396
+"12","rcsi_category","type_job_categories","medium","permanent_job",0.217391304347826,NA,0.180569509376569,0.254213099319084
+"13","rcsi_category","type_job_categories","high","temporary_job",0.454794520547945,NA,0.403658563597877,0.505930477498013
+"14","rcsi_category","type_job_categories","low","temporary_job",0.252054794520548,NA,0.207466481363601,0.296643107677495
+"15","rcsi_category","type_job_categories","medium","temporary_job",0.293150684931507,NA,0.246404352059227,0.339897017803787
